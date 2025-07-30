@@ -2,7 +2,7 @@
 session_start();
 
 // Get the requested page
-$page = isset($_GET['page']) ? $_GET['page'] : '1';
+$page = isset($_GET['page']) ? $_GET['page'] : 'main';
 
 // Basic security validation
 if (!preg_match('/^[a-zA-Z0-9_]+$/', $page)) {
@@ -10,41 +10,29 @@ if (!preg_match('/^[a-zA-Z0-9_]+$/', $page)) {
 }
 
 // Handle history for the "Back" button
-if ($page !== '1' && (!isset($_SESSION['history']) || end($_SESSION['history']) !== $page)) {
+if ($page !== 'main' && (!isset($_SESSION['history']) || end($_SESSION['history']) !== $page)) {
     if (!isset($_SESSION['history'])) {
-        $_SESSION['history'] = [];
+        $_SESSION['history'] = ['main'];
     }
-    // Don't push addendums to history if they are already the last element
-    if (!is_numeric($page)) {
-        // If the last page was numeric, save it for the "back" button
-        if (isset($_SESSION['history'][count($_SESSION['history']) - 1]) && is_numeric($_SESSION['history'][count($_SESSION['history']) - 1])) {
-            //
+    if (is_numeric($page) || $page === 'main') {
+        $_SESSION['history'][] = $page;
+    } else { // Addendum
+        if (!in_array($page, $_SESSION['history'])) {
+            $_SESSION['history'][] = $page;
         }
     }
-    $_SESSION['history'][] = $page;
 }
-
 
 // Handle the "Back" action
 if (isset($_GET['action']) && $_GET['action'] === 'back') {
-    // Go back to the last numeric page
-    while (count($_SESSION['history']) > 1) {
-        $last_page = array_pop($_SESSION['history']);
-        if (is_numeric(end($_SESSION['history']))) {
-            $page = end($_SESSION['history']);
-            // array_pop($_SESSION['history']); // Pop the current page
-            break;
-        }
+    // Pop the current page
+    if (count($_SESSION['history']) > 1) {
+        array_pop($_SESSION['history']);
     }
-    if (count($_SESSION['history']) <= 1) {
-        $page = '1';
-        $_SESSION['history'] = [];
-    }
-
-    header('Location: ?page=' . $page);
+    $previous_page = end($_SESSION['history']);
+    header('Location: ?page=' . $previous_page);
     exit;
 }
-
 
 // Get the list of basic pages
 $files = glob('content/*.md');
@@ -56,6 +44,8 @@ foreach ($files as $file) {
     }
 }
 sort($numeric_pages, SORT_NUMERIC);
+
+$is_addendum = !is_numeric($page) && $page !== 'main';
 
 ?>
 <!DOCTYPE html>
@@ -69,6 +59,12 @@ sort($numeric_pages, SORT_NUMERIC);
 <body>
 
     <div class="top-bar">
+        <?php if ($is_addendum) : ?>
+            <a href="?action=back" class="home-back-btn">Back</a>
+        <?php else : ?>
+            <a href="?page=main" class="home-back-btn">Home</a>
+        <?php endif; ?>
+
         <?php foreach ($numeric_pages as $p) : ?>
             <a href="?page=<?php echo $p; ?>" class="<?php echo ($p == $page) ? 'active' : ''; ?>"><?php echo $p; ?></a>
         <?php endforeach; ?>

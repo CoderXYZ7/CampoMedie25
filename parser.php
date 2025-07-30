@@ -14,10 +14,5 @@ function parse_content($content, $page) {
     $parsedown = new Parsedown();
     $html = $parsedown->text($content);
 
-    // Add a "Back" button to addendums
-    if (!is_numeric($page)) {
-        $html .= '<br><a href="?action=back">Back</a>';
-    }
-
     return $html;
 }
