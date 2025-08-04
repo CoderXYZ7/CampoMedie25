@@ -1,0 +1,39 @@
+# 📅 Giorno 2 – Martedì: Il dono gratuito
+
+## 🌟 Tema del giorno:
+Il dono gratuito – Fare il bene in segreto
+
+## 📖 Vangelo – Matteo 6,1-4
+> “Guardatevi dal praticare le vostre buone opere davanti agli uomini per essere da loro ammirati, altrimenti non avrete ricompensa presso il Padre vostro che è nei cieli. Quando dunque fai l’elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini. In verità vi dico: hanno già ricevuto la loro ricompensa. Quando invece tu fai l’elemosina, non sappia la tua sinistra ciò che fa la tua destra, perché la tua elemosina resti segreta; e il Padre tuo, che vede nel segreto, ti ricompenserà.”
+
+## 🙏 Preghiera del mattino
+> “Signore, oggi voglio regalare un sorriso, un gesto, una parola buona… senza aspettarmi nulla. Fammi capire che il vero amore è gratuito, come il tuo. Rendimi capace di fare il bene in segreto, solo per Te. Amen.”
+
+## 📚 Storia: “Il cucchiaino” – Bruno Ferrero
+> Una vecchietta serena, sul letto d’ospedale, chiese al parroco di essere sepolta con un cucchiaino in mano. Il parroco, sorpreso, domandò il motivo. Lei rispose: “Alle cene in parrocchia, quando vedevo il cucchiaino vicino al piatto, sapevo che sarebbe arrivato il dolce. Il meglio veniva alla fine. Voglio che chi mi vedrà con il cucchiaino capisca che il meglio deve ancora venire.”
+
+Questa storia può essere letta dopo il laboratorio, come segno di speranza e bellezza nascosta nei piccoli gesti.
+
+## 🎨 Attività principali
+
+### 🧪 Laboratorio: “Il mio gesto segreto di bene”
+*   Ogni ragazzo scrive su un foglietto un gesto di bene che farà in segreto durante la giornata.
+*   I foglietti vengono messi in una scatola decorata: la Box dell’altruismo.
+*   Alla fine della giornata, si leggono i gesti (senza nomi) e si riflette su come il bene si muove silenziosamente.
+
+### 💬 Confronto in gruppo
+*   “Hai mai fatto qualcosa di buono senza dirlo a nessuno?”
+*   “Come ti sei sentito?”
+*   “Perché è difficile fare il bene senza essere visti?”
+
+## 🎵 Canzone del giorno:
+**“A Me Mi Piace” – Alfa & Manu Chao**
+> “A me mi piace quando sorridi / A me mi piace quando non ti nascondi…” Una canzone fresca e positiva, che parla di autenticità e piccoli gesti che fanno la differenza.
+
+## 🌌 Momento delle stelle – Preghiera della sera
+> “Gesù, oggi ho provato a donare con il cuore. Grazie per ogni sorriso che ho ricevuto, per ogni gesto nascosto che ho offerto. Fa’ che anche nel silenzio il bene continui a vivere. Custodiscimi nel tuo abbraccio. Amen.”
+
+## 🖍️ Spazio scrivibile e creativo
+*   Scrivi un gesto segreto che hai fatto oggi.
+*   Disegna una scatola con dentro parole che fanno bene.
+*   Completa la frase: “Il bene è…”

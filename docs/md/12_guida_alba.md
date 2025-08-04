@@ -1,0 +1,26 @@
+# 🌄 Guida per il Momento dell’Alba
+
+## 🕓 Orario consigliato
+*   **Ritrovo:** ore 3:45
+*   **Inizio cammino:** ore 4:00
+*   **Arrivo al punto panoramico:** ore 5:00
+*   **Alba prevista:** ore 5:39
+
+## 📖 Testo-Storia: “Il fiore che aspettava il sole”
+> C’era una volta un piccolo fiore che viveva in cima a una montagna. Ogni notte si chiudeva, aspettando con pazienza il ritorno del sole. Gli altri fiori lo prendevano in giro: “Perché ti ostini a svegliarti così presto? Il sole non ti vede nemmeno!” Ma il fiore rispondeva: “Io non voglio essere visto. Voglio vedere.” E ogni mattina, quando il primo raggio di luce toccava i suoi petali, il fiore si apriva. Non per mostrarsi, ma per accogliere. Quel fiore non era il più bello, né il più grande. Ma era il primo a dire “grazie” al nuovo giorno.
+
+Questa storia può essere letta in cerchio, poco prima che sorga il sole. 🌸
+
+## 🎵 Canzone consigliata: “Viva la vita” – Francesco Gabbani
+Una canzone leggera ma profonda, che celebra la bellezza della vita così com’è. Può essere ascoltata in silenzio, oppure cantata insieme dopo l’alba.
+> “Viva la vita finché ce n’è / Viva la vita questa vita che / È solo un battito / Un lungo battito…”
+
+## 🌌 Meditazione guidata: “Sotto il cielo che si sveglia”
+> “Respira. Guarda il cielo. Sta cambiando colore, come un quadro che prende vita. Ogni giorno Dio dipinge un’alba nuova, e oggi l’ha fatta per te. Non devi fare nulla, solo esserci. Senti il silenzio? È pieno di parole che non servono. Senti il freddo? È il segno che sei vivo. Senti il cuore? È il tuo battito che dice: ‘Grazie’. Guarda il sole. Sta arrivando. E tu sei qui. Questo basta.”
+
+Musica Ludovico Einaudi
+
+## ✨ Attività finale
+*   **Cerchio della gratitudine:** ogni ragazzo può dire una parola che descrive ciò che ha provato.
+*   **Foto simbolica:** scattare una foto con il sole che sorge dietro, come segno del “nuovo giorno”.
+*   **Preghiera silenziosa o lettura del Cantico delle Creature di San Francesco.**

@@ -1,0 +1,37 @@
+# 📅 Giorno 6 – Sabato: Costruire relazioni vere
+
+## 🌟 Tema del giorno:
+Costruire relazioni vere – L’amicizia che porta a Gesù
+
+## 📖 Vangelo – Marco 2,1-12
+> “Si recarono da lui portando un paralitico, sorretto da quattro persone. Non potendo però portarglielo innanzi, a causa della folla, scoperchiarono il tetto nel punto dove egli si trovava e, fatta un'apertura, calarono la barella su cui era adagiato il paralitico. Gesù, vedendo la loro fede, disse al paralitico: ‘Figlio, ti sono perdonati i peccati’.” (Marco 2,1-12 – testo completo)
+
+Un racconto che mostra come l’amicizia vera non si ferma davanti agli ostacoli, ma porta l’altro al cuore di Dio.
+
+## 🙏 Preghiera del mattino
+> “Gesù, manda sulla mia strada amici veri, e rendimi capace di esserlo anch’io. Fammi superare la diffidenza, e aiutami a camminare insieme. Dove c’è fiducia, ci sei tu. Dove c’è amicizia, c’è il tuo amore. Amen.”
+
+## 📚 Storia: “Il ponte” – Bruno Ferrero
+> Un contadino e suo figlio devono attraversare un ponte traballante. Il bambino ha paura. Il padre gli dice: “Ti terrò per mano.” Al ritorno, lo prende in braccio e il piccolo si addormenta.
+> La mattina dopo si sveglia nel suo letto, sano e salvo. Non si è neppure accorto di essere stato portato oltre il ponte. Così è l’amicizia vera: ti sostiene, ti porta, ti fa attraversare le paure senza che tu te ne accorga. Puoi leggere la storia completa su donquirry.it.
+
+## 🤝 Attività principali
+
+### 🧗‍♀️ Giochi di fiducia
+*   **“Caduta libera”**: un ragazzo si lascia cadere all’indietro, fidandosi del gruppo che lo sostiene.
+*   **“Cammino bendato”**: a coppie, uno guida l’altro attraverso un percorso.
+
+### 💬 Cerchio di condivisione
+*   Ogni ragazzo racconta un momento in cui si è sentito sostenuto da un amico.
+*   Scrittura su foglietti: “Per me, amicizia è…” da appendere su un grande cartellone a forma di ponte.
+
+## 🎵 Canzone del giorno:
+**“Amor” – Achille Lauro**
+> “Amor, amor, amor / È quello che ci tiene insieme…” Una canzone che parla di legami, di fiducia, di un amore che costruisce e non distrugge.
+
+## 🌌 Momento delle stelle – Preghiera della sera
+> “Gesù, grazie per gli abbracci sinceri, per le risate condivise, per le lacrime che non fanno paura. Tu sei nel cuore dell’amicizia. Fai che i legami nati oggi crescano forti e veri. Buona notte, Maestro dell’amore. Amen.”
+
+## 🖍️ Spazio scrivibile e creativo
+*   Scrivi il nome di un amico che ti ha aiutato a “passare il ponte”.
+*   Disegna un ponte con persone che si tengono per mano.

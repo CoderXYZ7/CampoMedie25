@@ -1,0 +1,39 @@
+# 📅 Giorno 4 – Giovedì: Passare il bene agli altri
+
+## 🌟 Tema del giorno:
+Passare il bene agli altri – Essere luce che si trasmette
+
+## 📖 Vangelo – Isaia 2,5
+> “Casa di Giacobbe, vieni, camminiamo nella luce del Signore.”
+
+Un invito a camminare insieme, nella luce, come popolo che porta speranza.
+
+## 🙏 Preghiera del mattino
+> “Oggi, Signore, fammi essere un messaggero del bene. Fai che ogni cosa bella che ricevo non si fermi con me, ma scorra come un fiume. Aiutami a essere luce e sorriso per chi incontro oggi. Amen.”
+
+## 📚 Storia: “Il pellegrino e i tre spaccapietre” – Bruno Ferrero
+> Durante il Medioevo, un pellegrino incontra tre uomini che spaccano pietre. Al primo chiede: “Che cosa fai?” – “Mi sto ammazzando di fatica.” Al secondo: “Lavoro per mantenere la mia famiglia.” Al terzo: “Sto costruendo una cattedrale.” Tutti fanno lo stesso lavoro, ma il senso che danno cambia tutto.
+> Il bene che facciamo può essere fatica… oppure costruzione di qualcosa di eterno.
+
+## 🚶‍♂️ Attività principali
+
+### 🥾 Camminata in montagna: “Tappe di luce”
+Cammino a tappe con brevi meditazioni:
+*   **Tappa 1: “Camminiamo insieme”** – silenzio e ascolto
+*   **Tappa 2: “Chi mi ha trasmesso il bene?”** – condivisione
+*   **Tappa 3: “A chi voglio portarlo?”** – scrittura su sassolini
+
+### 🔁 Staffetta del bene
+*   Ogni gruppo riceve una “missione gentile”: compiere 3 gesti di bene per altri gruppi o persone.
+*   Alla sera, si raccontano le missioni compiute.
+
+## 🎵 Canzone del giorno:
+**“Un Ragazzo Una Ragazza” – The Kolors**
+> “E se ti va / possiamo essere luce…” Una canzone che parla di relazioni, scelte e luce condivisa. Perfetta per il tema del giorno.
+
+## 🌌 Momento delle stelle – Preghiera della sera
+> “Questa giornata è stata piena di passi, parole e gesti che hanno camminato insieme. Grazie perché il bene può passare di mano in mano come una stella cadente. Fammi essere ponte tra le persone. Amen.”
+
+## 🖍️ Spazio scrivibile e creativo
+*   Scrivi un gesto di bene che hai ricevuto oggi.
+*   Disegna una fiaccola che passa di mano in mano.

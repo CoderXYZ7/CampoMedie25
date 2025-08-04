@@ -1,0 +1,42 @@
+# 📅 Giorno 7 – Domenica: Un giorno per domani
+
+## 🌟 Tema del giorno:
+Un giorno per domani – La vita come vocazione
+
+## 📖 Vangelo – Matteo 28,16-20
+> “Andate dunque e fate discepoli tutti i popoli, battezzandoli nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto ciò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo.” (Matteo 28,16-20 – testo completo)
+
+Gesù non lascia soli i suoi amici: li invia nel mondo, con la promessa di una presenza costante. È il tempo della missione.
+
+## 🙏 Preghiera del mattino
+> “Gesù, oggi mi affidi il mondo. Mi affidi le persone che incontrerò, le scelte che farò, i sogni che coltiverò. Fa’ che io non dimentichi ciò che ho vissuto qui. Rendimi testimone del tuo amore, ogni giorno. Amen.”
+
+## 📚 Storia: “Il seme” – Bruno Ferrero
+> Un contadino pianta un seme. Lo cura, lo protegge, lo aspetta.
+> Il seme cresce, diventa albero, dà frutti. Ma tutto è cominciato da quel piccolo gesto di fiducia. Così è la vita: ogni scelta buona è un seme che può cambiare il mondo. Puoi leggere la storia completa su donquirry.it.
+
+## 🎉 Attività principali
+
+### 🧩 Riflessione personale
+*   Ogni ragazzo riceve un foglietto con la frase: “Un giorno per domani è…” da completare.
+*   Scrittura di una lettera a sé stessi: “Cosa voglio portare con me da questo campo?”
+
+### 🕊️ Celebrazione finale
+*   Messa conclusiva con il rito dell’invio.
+*   Consegna di un piccolo simbolo (una pietra, una candela, un seme…) come segno del cammino.
+
+### 💌 Scatola dei ricordi
+*   Ogni ragazzo mette nella scatola un oggetto, un pensiero, una parola che rappresenta il campo.
+*   La scatola sarà custodita dalla parrocchia e riaperta in un momento speciale.
+
+## 🎵 Canzone del giorno:
+**“Ogni istante” – Tiziano Ferro**
+> “Ogni istante è un dono, ogni passo è un viaggio…” Una canzone che invita a vivere con intensità, a non sprecare il tempo, a scegliere con amore.
+
+## 🌌 Momento delle stelle – Preghiera della sera
+> “Gesù, grazie per ogni sorriso, ogni abbraccio, ogni parola che mi ha fatto crescere. Fa’ che io non dimentichi. Fa’ che io sia luce per chi incontro. Buona notte, Maestro della vita. Amen.”
+
+## 🖍️ Spazio scrivibile e creativo
+*   Disegna il tuo “giorno per domani”: cosa sogni, cosa speri, cosa vuoi costruire.
+*   Scrivi una frase che vuoi ricordare ogni mattina.
+*   Completa: “Io sono chiamato a…”
