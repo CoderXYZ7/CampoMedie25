@@ -23,7 +23,7 @@
       <td>Row 1, Cell 3</td>
     </tr>
     <tr>
-      <td>Row 2, Cell 1</td>
+      <td><a href="?page=tech_details">Technical Details</a>, Cell 1</td>
       <td>Row 2, Cell 2</td>
       <td>Row 2, Cell 3</td>
     </tr>
@@ -52,3 +52,6 @@ function showAlert() {
   alert("Hello from embedded JavaScript!");
 }
 </script>
+
+<h2>Internal md links</h2>
+[Technical Details](?page=tech_details)

@@ -37,10 +37,16 @@ if (isset($_GET['action']) && $_GET['action'] === 'back') {
 // Get the list of basic pages
 $files = glob('content/*.md');
 $numeric_pages = [];
+$page_titles = []; // To store the titles from comments
 foreach ($files as $file) {
     $basename = basename($file, '.md');
     if (is_numeric($basename)) {
         $numeric_pages[] = $basename;
+        // Read the first line of the file to get the title
+        $first_line = fgets(fopen($file, 'r'));
+        if (preg_match('/\[comment\]: <> \((.*?)\)/', $first_line, $matches)) {
+            $page_titles[$basename] = $matches[1];
+        }
     }
 }
 sort($numeric_pages, SORT_NUMERIC);
@@ -66,7 +72,7 @@ $is_addendum = !is_numeric($page) && $page !== 'main';
         <?php endif; ?>
 
         <?php foreach ($numeric_pages as $p) : ?>
-            <a href="?page=<?php echo $p; ?>" class="<?php echo ($p == $page) ? 'active' : ''; ?>"><?php echo $p; ?></a>
+            <a href="?page=<?php echo $p; ?>" class="<?php echo ($p == $page) ? 'active' : ''; ?>"><?php echo isset($page_titles[$p]) ? $page_titles[$p] : $p; ?></a>
         <?php endforeach; ?>
     </div>
 
