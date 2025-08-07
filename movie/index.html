@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Video Player with PHP Stream</title>
+
+    <!-- Plyr CSS from CDN -->
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+
+    <style>
+        /* Basic page styling */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* Container for the player */
+        .player-container {
+            width: 90%;
+            max-width: 1280px;
+            background-color: #000;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+            overflow: hidden;
+            transition: all 0.3s ease-in-out;
+            z-index: 10;
+        }
+
+        /* Custom styling for the Plyr player */
+        :root {
+            --plyr-color-main: #ff6347; /* Accent color for controls */
+            --plyr-video-background: #000;
+        }
+
+        .plyr {
+            width: 100%;
+            height: auto;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="player-container">
+        <!-- The video element where Plyr will be initialized -->
+        <video id="player" playsinline controls crossorigin>
+            <!--
+                The video source now points to a PHP script, which will
+                handle the byte-range requests and stream the video correctly.
+                The video file is passed as a 'file' parameter.
+            -->
+            <source src="stream.php?file=videos/Un.Sogno.Per.Domani.Pay.It.Forward.2000.ITA-ENG.WEB-DLRip.720p.x264-HD4ME.mp4" type="video/mp4" />
+
+            <!-- Fallback for browsers that don't support the video format -->
+            Your browser does not support this video file type.
+        </video>
+    </div>
+
+    <!-- Plyr JavaScript from CDN -->
+    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initialize Plyr on the video element
+            const player = new Plyr('#player');
+        });
+    </script>
+
+</body>
+</html>
