@@ -199,6 +199,7 @@ La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 **Benedizione**
 
 ## Diario
+
 ---
 
 # Martedì 19 agosto
@@ -314,6 +315,7 @@ La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 **Benedizione**
 
 ## Diario
+
 ---
 
 # Mercoledì 20 agosto
@@ -912,7 +914,7 @@ Il piccolo seme nero, là sotto, esplodeva di gioia.
 
 # Canti
 
-### 1. Chiamati per nome
+## 1. Chiamati per nome
 
 Rit. Veniamo da te, chiamati per nome.
 Che festa, Signore, tu cammini con noi.
@@ -931,7 +933,7 @@ grano del Signore risorto,
 la tua messe che fiorirà
 d’eternità. Rit.
 
-### 2. Come tu mi vuoi
+## 2. Come tu mi vuoi
 
 Eccomi Signor, vengo a te mio Re,
 che si compia in me la tua volontà.
@@ -956,7 +958,7 @@ plasma il cuore mio e di te vivrò.
 Tra le tue mani mai più vacillerò
 e strumento tuo sarò. Rit.
 
-### 3. Dall’aurora al tramonto
+## 3. Dall’aurora al tramonto
 
 Rit. Dall'aurora io cerco te,
 fino al tramonto ti chiamo.
@@ -973,7 +975,7 @@ io racconterò le tue opere
 perché sei il mio Dio, unico bene,
 nulla mai potrà la notte contro di me. Rit.
 
-### 4. Frutto della nostra terra
+## 4. Frutto della nostra terra
 
 Frutto della nostra terra, del lavoro di ogni uomo:
 pane della nostra vita, cibo della quotidianità.
@@ -991,7 +993,7 @@ vino delle nostre vigne, sulla mensa dei fratelli tuoi
 Tu che lo prendevi un giorno, lo bevevi con i tuoi,
 oggi vieni in questo vino e ti doni per la vita mia. Rit.
 
-### 5. Servire è regnare
+## 5. Servire è regnare
 
 Guardiamo a te che sei, Maestro e Signore,
 Chinato a terra stai, ci mostri che l'amore
@@ -1008,7 +1010,7 @@ che lavi i piedi a noi, che siamo tue creature
 e cinto del grembiule, che è manto tuo regale,
 ci insegni che servire è regnare. Rit.
 
-### 6. Resta qui con noi
+## 6. Resta qui con noi
 
 Le ombre si distendono, scende ormai la sera,
 e si allontanano dietro i monti
@@ -1029,7 +1031,7 @@ alle porte dell'amore vero;
 come una fiamma che dove passa brucia,
 così il Tuo amore tutto il mondo invaderà. Rit.
 
-### 7. Sono qui a lodarti
+## 7. Sono qui a lodarti
 
 Luce del mondo nel buio del cuore
 vieni ed illuminami.
@@ -1046,7 +1048,7 @@ qui per dirti che tu sei il mio Dio
 e solo tu sei Santo, sei meraviglioso
 degno e glorioso sei per me.
 
-### 8. Ti loderò, ti adorerò, ti canterò
+## 8. Ti loderò, ti adorerò, ti canterò
 
 Vivi nel mio cuore
 da quando ti ho incontrato
@@ -1078,7 +1080,7 @@ splendi tu, o Gesù.
 Per sempre io ti dirò il mio grazie
 e in eterno canterò. Rit.
 
-### 9. Tu sei
+## 9. Tu sei
 
 Tu sei la prima stella del mattino,
 tu sei la nostra grande nostalgia,
@@ -1096,7 +1098,7 @@ soffierà sulle vele e le gonfierà di te.
 Soffierà, soffierà, il vento forte della vita,
 soffierà sulle vele e le gonfierà di te.
 
-### 10. Vieni e seguimi
+## 10. Vieni e seguimi
 
 Lascia che il mondo vada per la sua strada,
 lascia che l’uomo ritorni alla sua casa,
