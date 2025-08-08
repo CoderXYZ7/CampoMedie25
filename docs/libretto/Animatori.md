@@ -38,17 +38,17 @@ Buon cammino!
 
 # Domenica 17 agosto
 
-### Orari del Pomeriggio
-
-```
-16:00   Arrivo a Fusine e sistemazione nelle camere.
-16:45   Merenda.
-17:15   Introduzione al campo scuola (don Alberto) e regole per la convivenza (Michela); segue gioco di conoscenza (____________). Suddivisione in squadre e spiegazione turni di servizio (______).
-18:15   Gioco libero.
-19:30   Cena; segue momento libero.
-21:00   Visione del film “Un sogno per domani”.
-23:00   Preghiera della sera (Francisco) e sistemazione per la notte.Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di lunedì.
-```
+>## Orari del Pomeriggio
+>
+>```
+>16:00   Arrivo a Fusine e sistemazione nelle camere.
+>16:45   Merenda.
+>17:15   Introduzione al campo scuola (don Alberto) e regole per la convivenza (Michela); segue gioco di conoscenza (____________). Suddivisione in squadre e spiegazione turni di servizio (______).
+>18:15   Gioco libero.
+>19:30   Cena; segue momento libero.
+>21:00   Visione del film “Un sogno per domani”.
+>23:00   Preghiera della sera (Francisco) e sistemazione per la notte.Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di lunedì.
+>```
 
 ## 🎬 UN SOGNO PER DOMANI
 
@@ -88,41 +88,27 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 131) a cori alterni
+**Salmo**
 
-Signore, non si esalta il mio cuore
-né i miei occhi guardano in alto;
-non vado cercando cose grandi
-né meraviglie più alte di me.
-Io invece resto quieto e sereno:
-come un bimbo svezzato in braccio a sua madre,
-come un bimbo svezzato è in me l'anima mia.
-Israele attenda il Signore,
-da ora e per sempre.
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Signore ci hai dato la possibilità di essere qui, tutti insieme, per iniziare questa nuova avventura che ci aiuterà a guardare a noi stessi e agli altri con occhi nuovi. Ti preghiamo affinché questi giorni che trascorreremo, siano ricchi di gioia e serenità, di amicizia fraterna e rispetto reciproco. Siano, allo stesso tempo, giorni scanditi dal tuo amore che colora la nostra vita. Per Cristo nostro Signore. Amen.
-
-Benedizione.
+**Benedizione**
 
 ---
 
 # Lunedì 18 agosto
 
-### Orari della Mattina
-
-```
-07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-07:30   Sveglia dei ragazzi.
-08:00   Preghiera del mattino (Stefano).
-08:15   Colazione.
-08:45   Lavaggio denti e sistemazione camere.
-09:15   Turni di pulizie.
-10:15   Momento formativo (Michela).
-11:30   Gioco libero.
-12:30   Pranzo.
-```
+>## Orari della Mattina
+>
+>```
+>07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>07:30   Sveglia dei ragazzi.
+>08:00   Preghiera del mattino (Stefano).
+>08:15   Colazione.
+>08:45   Lavaggio denti e sistemazione camere.
+>09:15   Turni di pulizie.
+>10:15   Momento formativo (Michela).
+>11:30   Gioco libero.
+>12:30   Pranzo.
+>```
 
 ## L’ora della luce
 
@@ -140,47 +126,58 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 121) a cori alterni
+**Salmo**
 
-Alzo gli occhi verso i monti: da dove mi verrà l'aiuto?
-Il mio aiuto viene dal Signore: egli ha fatto cielo e terra.
+**Benedizione**
 
-Non lascerà vacillare il tuo piede,
-non si addormenterà il tuo custode.
-Non si addormenterà, non prenderà sonno il custode d'Israele.
+## Attività Lunedì
 
-Il Signore è il tuo custode,
-il Signore è la tua ombra e sta alla tua destra.
+>🌟 Tema del giorno:
+>Scegliere il bene: “La via stretta”
 
-Di giorno non ti colpirà il sole, né la luna di notte.
-Il Signore ti custodirà da ogni male:
-egli custodirà la tua vita.
+- 📖 Vangelo del giorno – Matteo 7,13-14
 
-Il Signore ti custodirà quando esci e quando entri,
-da ora e per sempre.
+>«Entrate per la porta stretta, perché larga è la porta e spaziosa la via che conduce alla perdizione, e molti sono quelli che vi entrano. Quanto stretta è invece la porta e angusta la via che conduce alla vita, e quanto pochi sono quelli che la trovano!»
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+- La Storia "La porta"
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+C’è un quadro famoso che rappresenta Gesù in un giardino buio.
+Con la mano sinistra alza una lampada che illumina la scena, con la destra bussa ad una porta pesante e robusta.
+Quando il quadro fu presentato per la prima volta ad una mostra, un visitatore fece notare al pittore un particolare curioso:
 
-Benedizione.
+“Nel suo quadro c’è un errore.
+La porta è senza maniglia!”
+“Non è un errore!” rispose il pittore, “Quella è la porta del cuore umano.
+Si apre solo dall’interno.”
 
-> Attività Lunedì
+- Attività di gruppo
 
-### Orari del Pomeriggio
+>🎬 Attività principali
+>🕹️ Mattina – Giochi di gruppo e accoglienza
+>Gioco della valigia: ogni ragazzo riceve una “valigia” simbolica e inserisce dentro parole che lo rappresentano.
+>Gioco “La scelta”: percorsi alternativi da scegliere, con ostacoli e sorprese, per riflettere sulle scelte quotidiane.
+>💬 Sera – Confronto e riflessione
+>Domande guida:
+>Qual è stata la scelta più difficile che hai fatto?
+>Cosa significa per te “scegliere il bene”?
+>Hai mai sentito di essere sulla “via stretta”?
+>🎵 Canzone del giorno:
+>“Sinceramente” – Annalisa
+>“Sinceramente non riesco a stare bene / Se non mi sento libera di essere come mi pare…” Una canzone che parla di autenticità e scelte personali, perfetta per il tema della giornata.
 
-```
-13:15   Momento libero.
-14:00   Grande gioco all’aperto (Maria & Francesca).
-16:15   Rientro e merenda.
-17:00   Docce.
-18:30   Santa Messa.
-19:30   Cena. 
-20:30   Telefonate a casa; segue momento libero.
-21:00   Gioco serale (Fabio e Luca).
-23:00   Preghiera della sera (Suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di martedì.
-```
+>## Orari del Pomeriggio
+>
+>```
+>13:15   Momento libero.
+>14:00   Grande gioco all’aperto (Maria & Francesca).
+>16:15   Rientro e merenda.
+>17:00   Docce.
+>18:30   Santa Messa.
+>19:30   Cena. 
+>20:30   Telefonate a casa; segue momento libero.
+>21:00   Gioco serale (Fabio e Luca).
+>23:00   Preghiera della sera (Suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di martedì.
+>```
 
 ## L’ora delle stelle
 
@@ -197,70 +194,25 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 91) a cori alterni
+**Salmo**
 
-Chi abita al riparo dell'Altissimo
-passerà la notte all'ombra dell'Onnipotente.
-Io dico al Signore: "Mio rifugio e mia fortezza,
-mio Dio in cui confido".
+**Benedizione**
 
-Egli ti libererà dal laccio del cacciatore,
-dalla peste che distrugge.
-Ti coprirà con le sue penne,
-sotto le sue ali troverai rifugio;
-la sua fedeltà ti sarà scudo e corazza.
-
-Non temerai il terrore della notte
-né la freccia che vola di giorno,
-la peste che vaga nelle tenebre,
-lo sterminio che devasta a mezzogiorno.
-
-Mille cadranno al tuo fianco
-e diecimila alla tua destra,
-ma nulla ti potrà colpire.
-
-"Sì, mio rifugio sei tu, o Signore!".
-Tu hai fatto dell'Altissimo la tua dimora:
-non ti potrà colpire la sventura,
-nessun colpo cadrà sulla tua tenda.
-
-Egli per te darà ordine ai suoi angeli
-di custodirti in tutte le tue vie.
-Sulle mani essi ti porteranno,
-perché il tuo piede non inciampi nella pietra.
-
-Calpesterai leoni e vipere,
-schiaccerai leoncelli e draghi.
-"Lo libererò, perché a me si è legato,
-lo porrò al sicuro, perché ha conosciuto il mio nome.
-
-Mi invocherà e io gli darò risposta;
-nell'angoscia io sarò con lui,
-lo libererò e lo renderò glorioso.
- Lo sazierò di lunghi giorni
-e gli farò vedere la mia salvezza".
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Preparandoci al riposo, ti ringraziamo, Signore Gesù, perché ci hai accompagnato, come luce sul nostro cammino, nel corso di questa giornata e ci hai mostrato come la tua Parola dà sapore alla nostra esistenza. Aiutaci a ricordarci che tu ci tieni sempre per mano e ci porti in braccio nei momenti più bui. Sii tu la nostra salvezza. Amen.
-
-Benedizione.
-
+## Diario
 ---
 
 # Martedì 19 agosto
 
-### Orari della Mattina
-
-```
-07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-07:30   Sveglia dei ragazzi.
-08:00   Preghiera del mattino (Enrico).
-08:15   Colazione.
-08:45   Lavaggio denti, sistemazione camere e preparazione dello zaino.
-09:30   Partenza per la camminata breve. Durante la camminata momento formativo (Debora).Santa Messa all’aperto e gioco (Teresa).
-```
+>## Orari della Mattina
+>
+>```
+>07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>07:30   Sveglia dei ragazzi.
+>08:00   Preghiera del mattino (Enrico).
+>08:15   Colazione.
+>08:45   Lavaggio denti, sistemazione camere e preparazione dello zaino.
+>09:30   Partenza per la camminata breve. Durante la camminata momento formativo (Debora).Santa Messa all’aperto e gioco (Teresa).
+>```
 
 ## L’ora della luce
 
@@ -278,45 +230,69 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 89) a cori alterni
+**Salmo**
 
-Canterò in eterno l'amore del Signore,
-di generazione in generazione
-farò conoscere con la mia bocca la tua fedeltà,
+**Benedizione**
 
-perché ho detto: "È un amore edificato per sempre;
-nel cielo rendi stabile la tua fedeltà".
-Stabilirò per sempre la tua discendenza,
-di generazione in generazione edificherò il tuo trono".
+## Attività Martedì
 
-I cieli cantano le tue meraviglie, Signore,
-la tua fedeltà nell'assemblea dei santi.
+>🌟 Tema del giorno:
+>Il dono gratuito – Fare il bene in segreto
 
-Beato il popolo che ti sa acclamare:
-camminerà, Signore, alla luce del tuo volto;
-esulta tutto il giorno nel tuo nome,
-si esalta nella tua giustizia.
+- 📖 Vangelo – Matteo 6,1-4
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+>“Guardatevi dal praticare le vostre buone opere davanti agli uomini per essere da loro ammirati, altrimenti non avrete ricompensa presso il Padre vostro che è nei cieli. Quando dunque fai l’elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini. In verità vi dico: hanno già ricevuto la loro ricompensa. Quando invece tu fai l’elemosina, non sappia la tua sinistra ciò che fa la tua destra, perché la tua elemosina resti segreta; e il Padre tuo, che vede nel segreto, ti ricompenserà.”
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+- La Storia "Il cucchiaino"
 
-Benedizione.
+Una vecchietta serena, sul letto d’ospedale, parlava con il parroco che era andato a visitarla:
+“Il Signore mi ha donato una vita bellissima.
+Sono pronta a partire!”
 
-> Attività Martedì
+“Lo so.” mormorò il parroco.
+“C’è una cosa che desidero.
+Quando mi seppelliranno voglio avere un cucchiaino in mano!”
+“Un cucchiaino?” chiese il buon parroco che si mostrò autenticamente sorpreso, “Perché vuoi essere sepolta con un cucchiaino in mano?”
+“Mi è sempre piaciuto partecipare ai pranzi e alla cene delle feste in parrocchia.
+Quando arrivavo al mio posto guardavo subito se c’era il cucchiaino vicino al piatto.
 
-### Orari del Pomeriggio
+Sa che cosa voleva dire?
+Che alla fine sarebbero arrivati il dolce o il gelato!” disse la donna.
+“Ed allora?” domandò il parroco.
+“Questo per me significava che il meglio arrivava alla fine!”
+E proprio questo che voglio dire al mio funerale.
+Quando passeranno vicino alla mia bara si chiederanno:
 
-```
-16:00   Rientro e merenda.
-17:00   Docce.
-18:30   Gioco libero.
-19:30   Cena. 
-20:30   Momento libero ed eventuali telefonate.
-21:00   Gioco serale (Emma).
-23:00   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di mercoledì.
-```
+“Perché quel cucchiaino?”
+Voglio che lei risponda:
+“Il cucchiaino, che ha in mano, vuol far capire che sta arrivando il meglio!”
+
+- Attività di gruppo
+
+>🎨 Attività principali
+>🧪 Laboratorio: “Il mio gesto segreto di bene”
+>Ogni ragazzo scrive su un foglietto un gesto di bene che farà in segreto durante la giornata.
+>I foglietti vengono messi in una scatola decorata: la Box dell’altruismo.
+>Alla fine della giornata, si leggono i gesti (senza nomi) e si riflette su come il bene si muove silenziosamente.
+>💬 Confronto in gruppo
+>“Hai mai fatto qualcosa di buono senza dirlo a nessuno?”
+>“Come ti sei sentito?”
+>“Perché è difficile fare il bene senza essere visti?”
+>🎵 Canzone del giorno:
+>“A Me Mi Piace” – Alfa & Manu Chao
+>“A me mi piace quando sorridi / A me mi piace quando non ti nascondi…” Una canzone fresca e positiva, che parla di autenticità e piccoli gesti che fanno la differenza.
+
+>## Orari del Pomeriggio
+>
+>```
+>16:00   Rientro e merenda.
+>17:00   Docce.
+>18:30   Gioco libero.
+>19:30   Cena. 
+>20:30   Momento libero ed eventuali telefonate.
+>21:00   Gioco serale (Emma).
+>23:00   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di mercoledì.
+>```
 
 ## L’ora delle stelle
 
@@ -333,46 +309,28 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 15) a cori alterni
+**Salmo**
 
-Proteggimi, o Dio: in te mi rifugio.
-Ho detto al Signore: «Il mio Signore sei tu, solo in te è il mio bene».
+**Benedizione**
 
-Benedico il Signore che mi ha dato consiglio;
-anche di notte il mio animo mi istruisce.
-Io pongo sempre davanti a me il Signore,
-sta alla mia destra, non potrò vacillare.
-
-Per questo gioisce il mio cuore ed esulta la mia anima;
-anche il mio corpo riposa al sicuro.
-
-Mi indicherai il sentiero della vita,
-gioia piena alla tua presenza, dolcezza senza fine alla tua destra.
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Gesù, Maestro buono, rendici attenti alle necessità degli “ultimi” e apri la nostra vita alla solidarietà e all'accoglienza. Donaci di scoprire la tua presenza lì dove gli occhi umani non vedono nulla e tu, invece, abbracci, accogli, benedici e hai compassione di ogni tua creatura. Amen.
-
-Benedizione.
-
+## Diario
 ---
 
 # Mercoledì 20 agosto
 
-### Orari della Mattina
-
-```
-07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-07:30   Sveglia dei ragazzi.
-08:00   Preghiera del mattino (Stefano).
-08:15   Colazione.
-08:45   Lavaggio denti e sistemazione camere.
-09:15   Turni di pulizie.
-10:15   Momento formativo (Ilores).
-11:30   Gioco libero.
-12:30   Pranzo.
-```
+>## Orari della Mattina
+>
+>```
+>07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>07:30   Sveglia dei ragazzi.
+>08:00   Preghiera del mattino (Stefano).
+>08:15   Colazione.
+>08:45   Lavaggio denti e sistemazione camere.
+>09:15   Turni di pulizie.
+>10:15   Momento formativo (Ilores).
+>11:30   Gioco libero.
+>12:30   Pranzo.
+>```
 
 ## L’ora della luce
 
@@ -390,46 +348,92 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 139) a cori alterni
+**Salmo**
 
-Signore, tu mi scruti e mi conosci,
-tu conosci quando mi siedo e quando mi alzo,
-intendi da lontano i miei pensieri,
-osservi il mio cammino e il mio riposo,
-ti sono note tutte le mie vie.
+**Benedizione**
 
-Dove andare lontano dal tuo spirito?
-Dove fuggire dalla tua presenza?
-Se salgo in cielo, là tu sei;
-se scendo negli inferi, eccoti.
+## Attività Mercoledì
 
-Se prendo le ali dell'aurora
-per abitare all'estremità del mare,
-anche là mi guida la tua mano
-e mi afferra la tua destra.
+>🌟 Tema del giorno:
+>Amare anche quando costa – Il coraggio del perdono
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+- 📖 Vangelo – Luca 6,27-36
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+>«Ma a voi che ascoltate, io dico: amate i vostri nemici, fate del bene a quelli che vi odiano, benedite quelli che vi maledicono, pregate per quelli che vi maltrattano. A chi ti percuote sulla guancia, porgi anche l’altra; a chi ti leva il mantello, non rifiutare la tunica. Da’ a chiunque ti chiede; e a chi prende del tuo, non richiederlo. Ciò che volete gli uomini facciano a voi, anche voi fatelo a loro. Se amate quelli che vi amano, che merito ne avrete? Anche i peccatori fanno lo stesso. Ma amate i vostri nemici, fate del bene e prestate senza sperarne nulla, e il vostro premio sarà grande: sarete figli dell’Altissimo, perché egli è benevolo verso gli ingrati e i malvagi. Siate misericordiosi, come è misericordioso il Padre vostro.»
 
-Benedizione.
+- La Storia "La crepa nel muro"
 
-> Attività Mercoledì
+C’era una volta, ma forse c’è ancora, un paese diviso in due da un muro.
+Era un muro alto, massiccio, grigio e minaccioso.
+Mai, proprio mai, nessuno aveva osato scavalcarlo.
+Nel muro non c’erano passaggi, porte o cose simili.
+Neanche un buchetto piccolo piccolo.
+Quelli che erano nati da questa parte del muro non avevano mai visto quelli che erano nati dall’altra parte e viceversa.
 
-### Orari del Pomeriggio
+Gigi abitava da questa parte del muro.
+Era un bambino gentile, con gli occhi castani e i capelli biondi.
+Ma era stufo di giocare sempre da solo nel cortiletto della sua casa, che era stata costruita proprio contro il famoso e tetro muro.
+“Perché non posso andare a giocare dall’altra parte del muro?” chiese Gigi, un giorno, alla mamma.
+“Perché di là ci abita della gente molto cattiva!” rispose la mamma, “E se non mi credi chiedilo a tuo padre.”
+Gigi andò a trovare il padre nel suo laboratorio:
+“Perché non posso andare a giocare dall’altra parte del muro?”
+“Perché di là ci abita della gente molto cattiva!” rispose il padre.
+Gigi ritornò a giocare da questa parte del muro.
+Ma ormai la tentazione di dare almeno una sbirciatina al di là del muro era troppo forte.
+Vide che il cemento del cortile era scheggiato proprio contro il muro e, quasi con indifferenza, infilò la sua paletta sotto un grosso frammento.
+Il pezzo di cemento si alzò con estrema facilità.
 
-```
-13:15   Momento libero.
-14:00   Grande gioco all’aperto (animatori di San Giorgio).
-16:15   Rientro e merenda.
-17:00   Docce.
-18:30   Santa Messa.
-19:30   Cena. 
-20:30   Telefonate a casa; segue momento libero.
-21:00   Gioco serale (Mattia & Luca).
-23:00   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di giovedì.
-```
+Gigi cominciò a scavare con decisione.
+Dall’altra parte del muro, c’era un altro cortile, una casetta, un bambino di otto anni con i capelli biondi e gli occhi castani.
+Il Gigi dell’altra parte del muro portò il Gigi di questa parte del muro a visitare il suo nascondiglio segreto.
+“Io ho un fratello, una sorella e un cane.” gli disse Gigi.
+“Proprio come me.” gli rispose Gigi.
+Gigi passeggiò con Gigi in lungo e in largo per la città dall’altra parte del muro.
+“Ti comprerei un gelato, ma i miei si sono dimenticati come al solito di darmi la paga della settimana.” gli disse Gigi.
+“Anche i miei.” disse Gigi.
+“Io non me la cavo troppo bene in aritmetica ed ho un po’ paura del buio!” disse Gigi.
+“Proprio come me.” gli rispose Gigi.
+I due ragazzi si presero a braccetto e ritornarono presso il muro.
+“Bisogna sempre stare attenti, perché ci sono delle persone spaventosamente cattive!” disse il Gigi dell’altra parte del muro.
+“Dove sono tutte quelle persone spaventosamente cattive?” chiese il Gigi di questa parte del muro.
+
+“Stanno dall’altra parte del muro!” gli rispose Gigi.
+Finalmente Gigi si infilò di nuovo nel buco e ritornò a casa sua da questa parte del muro.
+Entrò in casa facendo finta di niente, ma la sua fuga era stata notata.
+Papà e mamma erano là che lo aspettavano con le mani sui fianchi e il cipiglio delle grandi sgridate.
+“Gigi!” gridarono, “Tu sei stato dall’altra parte del muro?”
+“Sì!” rispose Gigi.
+“Dalla parte dei cattivi?”
+“Sì!” rispose Gigi.
+“E allora,” gridarono, “come sono?”
+“Proprio come noi!” rispose Gigi.
+
+- Attività di gruppo
+
+>🤝 Attività principali
+>🌳 Attività all’aperto: “Prove di empatia”
+>Giochi a coppie dove uno è bendato e l’altro guida con gesti gentili.
+>Piccole sfide dove si deve aiutare un compagno in difficoltà, senza competizione.
+>💬 Riflessione sul perdono
+>Cerchio di condivisione: “Racconta un momento in cui hai perdonato o sei stato perdonato.”
+>Scrittura su foglietti: “Chi vorresti perdonare oggi?” (da conservare o bruciare simbolicamente)
+>🎵 Canzone del giorno:
+>“La Noia” – Angelina Mango
+>“Ma che cos’è questa paura che mi prende / Quando provo a dire quello che mi fa star bene…” Una canzone intensa, che parla di emozioni vere e della fatica di essere autentici. Perfetta per riflettere sull’amore che costa.
+
+>## Orari del Pomeriggio
+>
+>```
+>13:15   Momento libero.
+>14:00   Grande gioco all’aperto (animatori di San Giorgio).
+>16:15   Rientro e merenda.
+>17:00   Docce.
+>18:30   Santa Messa.
+>19:30   Cena. 
+>20:30   Telefonate a casa; segue momento libero.
+>21:00   Gioco serale (Mattia & Luca).
+>23:00   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di giovedì.
+>```
 
 ## L’ora delle stelle
 
@@ -446,43 +450,28 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 8) a cori alterni
+**Salmo**
 
-Signore, non si esalta il mio cuore
-né i miei occhi guardano in alto;
-non vado cercando cose grandi
-né meraviglie più alte di me.
+**Benedizione**
 
-Io invece resto quieto e sereno:
-come un bimbo svezzato in braccio a sua madre,
-come un bimbo svezzato è in me l'anima mia.
-
-Israele attenda il Signore,
-da ora e per sempre.
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Signore, anche oggi hai chiamato il nostro nome perché compissimo la missione di bene e di amore che tu ci hai affidato. Aiutaci a staccarci da tutto ciò che non ci permette di seguirti e rendici annunciatori credibili perché molti possano arrivare a te. Amen.
-
-Benedizione.
+## Diario
 
 ---
 
 # Giovedì 21 agosto
 
-### Orari della Mattina
+>## Orari della Mattina
+>
+>```
+>06:30   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>07:00   Sveglia dei ragazzi.
+>07:30   Preghiera del mattino (Enrico).
+>08:00   Colazione.
+>08:20   Lavaggio denti, sistemazione camere e preparazione dello zaino.
+>08:45   Partenza per la camminata lunga. Durante la camminata momento formativo (Stefano & Enrico).
+>```
 
-```
-06:30   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-07:00   Sveglia dei ragazzi.
-07:30   Preghiera del mattino (Enrico).
-08:00   Colazione.
-08:20   Lavaggio denti, sistemazione camere e preparazione dello zaino.
-08:45   Partenza per la camminata lunga. Durante la camminata momento formativo (Stefano & Enrico).
-```
-
-### L’ora della luce
+## L’ora della luce
 
 G: Nel nome del Padre e del Figlio e dello Spirito Santo.
 T: Amen.
@@ -498,53 +487,64 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 119) a cori alterni
+**Salmo**
 
-Come potrà un giovane tenere pura la sua via?
-Osservando la tua parola.
-Con tutto il mio cuore ti cerco:
-non lasciarmi deviare dai tuoi comandi.
+**Benedizione**
 
-Ripongo nel cuore la tua promessa
-per non peccare contro di te.
-Benedetto sei tu, Signore:
-insegnami i tuoi decreti.
+## Attività Giovedì
 
-Con le mie labbra ho raccontato
-tutti i giudizi della tua bocca.
-Nella via dei tuoi insegnamenti è la mia gioia,
-più che in tutte le ricchezze.
+>🌟 Tema del giorno:
+>Passare il bene agli altri – Essere luce che si trasmette
 
-Voglio meditare i tuoi precetti,
-considerare le tue vie.
-Nei tuoi decreti è la mia delizia,
-non dimenticherò la tua parola.
+- 📖 Vangelo – Isaia 2,5
 
-Ho aderito ai tuoi insegnamenti:
-Signore, che io non debba vergognarmi.
-Corro sulla via dei tuoi comandi,
-perché hai allargato il mio cuore.
+>“Casa di Giacobbe, vieni, camminiamo nella luce del Signore.”
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre, nei secoli dei secoli. Amen.
+- La Storia "Il pellegrino e i tre spaccapietre"
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+Durante il Medioevo, un pellegrino aveva fatto voto di raggiungere un lontano santuario, come si usava a quei tempi. Dopo alcuni giorni di cammino, si trovò a passare per una stradina che si inerpicava per il fianco desolato di una collina brulla e bruciata dal sole. Sul sentiero spalancavano la bocca grigia tante cave di pietra. Qua e là degli uomini, seduti per terra, scalpellavano grossi frammenti di roccia per ricavare degli squadrati blocchi di pietra da costruzione.
 
-Benedizione.
+Il pellegrino si avvicinò al primo degli uomini. Lo guardò con compassione. Polvere e sudore lo rendevano irriconoscibile, negli occhi feriti dalla polvere di pietra si leggeva una fatica terribile. Il suo braccio sembrava una cosa unica con il pesante martello che continuava a sollevare ed abbattere ritmicamente.
+"Che cosa fai?", chiese il pellegrino.
+"Non lo vedi?" rispose l'uomo, sgarbato, senza neanche sollevare il capo. "Mi sto ammazzando di fatica".
+Il pellegrino non disse nulla e riprese il cammino.
 
-> Attività Giovedì
+S'imbatté presto in un secondo spaccapietre. Era altrettanto stanco, ferito, impolverato.
+"Che cosa fai?", chiese anche a lui, il pellegrino.
+"Non lo vedi? Lavoro da mattino a sera per mantenere mia moglie e i miei bambini", rispose l'uomo.
+In silenzio, il pellegrino riprese a camminare.
 
-### Orari del Pomeriggio
+Giunse quasi in cima alla collina. Là c'era un terzo spaccapietre. Era mortalmente affaticato, come gli altri. Aveva anche lui una crosta di polvere e sudore sul volto, ma gli occhi feriti dalle schegge di pietra avevano una strana serenità.
+"Che cosa fai?", chiese il pellegrino.
+"Non lo vedi?", rispose l'uomo, sorridendo con fierezza. "Sto costruendo una cattedrale".
+E con il braccio indicò la valle dove si stava innalzando una grande costruzione, ricca di colonne, di archi e di ardite guglie di pietra grigia, puntate verso il cielo.
 
-```
-16:00   Rientro e merenda.
-17:00   Docce.
-18:15   Condivisione dell’attività formativa (Stefano & Enrico).
-19:30   Cena. 
-20:30   Momento libero ed eventuali telefonate.
-21:00   Film (Fabio).
-22:45   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di venerdì.
-```
+- Attività di gruppo
+
+>🚶‍♂️ Attività principali
+>🥾 Camminata in montagna: “Tappe di luce”
+>Cammino a tappe con brevi meditazioni:
+>Tappa 1: “Camminiamo insieme” – silenzio e ascolto
+>Tappa 2: “Chi mi ha trasmesso il bene?” – condivisione
+>Tappa 3: “A chi voglio portarlo?” – scrittura su sassolini
+>🔁 Staffetta del bene
+>Ogni gruppo riceve una “missione gentile”: compiere 3 gesti di bene per altri gruppi o persone.
+>Alla sera, si raccontano le missioni compiute.
+>🎵 Canzone del giorno:
+>“Un Ragazzo Una Ragazza” – The Kolors
+>“E se ti va / possiamo essere luce…” Una canzone che parla di relazioni, scelte e luce condivisa. Perfetta per il tema del giorno.
+
+>## Orari del Pomeriggio
+>
+>```
+>16:00   Rientro e merenda.
+>17:00   Docce.
+>18:15   Condivisione dell’attività formativa (Stefano & Enrico).
+>19:30   Cena. 
+>20:30   Momento libero ed eventuali telefonate.
+>21:00   Film (Fabio).
+>22:45   Preghiera della sera (suor Claudia) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di venerdì.
+>```
 
 ## L’ora delle stelle
 
@@ -561,59 +561,29 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 139) a cori alterni
+**Salmo**
 
-Signore, tu mi scruti e mi conosci,
-tu conosci quando mi siedo e quando mi alzo,
-intendi da lontano i miei pensieri,
-osservi il mio cammino e il mio riposo,
-ti sono note tutte le mie vie.
-La mia parola non è ancora sulla lingua
-ed ecco, Signore, già la conosci tutta.
-Alle spalle e di fronte mi circondi e poni su di me la tua mano.
+**Benedizione**
 
-Meravigliosa per me la tua conoscenza,
-troppo alta, per me inaccessibile.
-Dove andare lontano dal tuo spirito?
-Dove fuggire dalla tua presenza?
-
-Se salgo in cielo, là tu sei;
-se scendo negli inferi, eccoti.
-Se prendo le ali dell'aurora
-per abitare all'estremità del mare,
-anche là mi guida la tua mano
-e mi afferra la tua destra.
-
-Se dico: "Almeno le tenebre mi avvolgano
-e la luce intorno a me sia notte",
-nemmeno le tenebre per te sono tenebre
-e la notte è luminosa come il giorno;
-per te le tenebre sono come luce.
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Signore, donaci la capacità di essere misericordiosi come te, di avere un cuore grande come il tuo, capace di non perdersi in inutili chiacchiere, ma di dare il bene a chiunque ce lo chiede nel tuo nome. Amen.
-
-Benedizione.
+## Diario
 
 ---
 
 # Venerdì 22 agosto
 
-### Orari della Mattina
-
-```
-07:30   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-08:00   Sveglia dei ragazzi.
-08:30   Preghiera del mattino (Stefano).
-08:45   Colazione.
-09:15   Lavaggio denti e sistemazione camere.
-09:45   Turni di pulizie.
-10:45   Esame di coscienza in preparazione alle Confessioni (suor Claudia).
-11:00   Confessioni individuali e gioco libero.
-12:30   Pranzo.
-```
+>## Orari della Mattina
+>
+>```
+>07:30   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>08:00   Sveglia dei ragazzi.
+>08:30   Preghiera del mattino (Stefano).
+>08:45   Colazione.
+>09:15   Lavaggio denti e sistemazione camere.
+>09:45   Turni di pulizie.
+>10:45   Esame di coscienza in preparazione alle Confessioni (suor Claudia).
+>11:00   Confessioni individuali e gioco libero.
+>12:30   Pranzo.
+>```
 
 ## L’ora della luce
 
@@ -631,70 +601,60 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 51) a cori alterni
+**Salmo**
 
-Pietà di me, o Dio, nel tuo amore;
-nella tua grande misericordia
-cancella la mia iniquità.
-Lavami tutto dalla mia colpa,
-dal mio peccato rendimi puro.
+**Benedizione**
 
-Sì, le mie iniquità io le riconosco,
-il mio peccato mi sta sempre dinanzi.
-Contro di te, contro te solo ho peccato,
-quello che è male ai tuoi occhi, io l'ho fatto:
-così sei giusto nella tua sentenza,
-sei retto nel tuo giudizio.
+## Attività Venerdì
 
-Ecco, nella colpa io sono nato,
-nel peccato mi ha concepito mia madre.
-Ma tu gradisci la sincerità nel mio intimo,
-nel segreto del cuore mi insegni la sapienza.
+>🌟 Tema del giorno:
+>Essere luce nel mondo – Scoprire e donare i propri talenti
 
-Lavami e sarò più bianco della neve.
-Fammi sentire gioia e letizia:
-esulteranno le ossa che hai spezzato.
-Distogli lo sguardo dai miei peccati,
-cancella tutte le mie colpe.
+- 📖 Vangelo – Giovanni 1,9
 
-Crea in me, o Dio, un cuore puro,
-rinnova in me uno spirito saldo.
-Rendimi la gioia della tua salvezza,
-sostienimi con uno spirito generoso.
+>“Veniva nel mondo la luce vera, quella che illumina ogni uomo.”
 
-Signore, apri le mie labbra
-e la mia bocca proclami la tua lode.
-Tu non gradisci il sacrificio;
-se offro olocausti, tu non li accetti.
+- La Storia "La candela che non voleva bruciare"
 
-Uno spirito contrito è sacrificio a Dio;
-un cuore contrito e affranto tu, o Dio, non disprezzi.
-Nella tua bontà fa' grazia a Sion,
-ricostruisci le mura di Gerusalemme.
+xxx
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+- Attività di gruppo
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+>🎨 Attività principali
+>🧩 Workshop: “Io splendo quando…”
+>Ogni ragazzo riceve una sagoma di candela o lanterna.
+>Scrive dentro: “Io splendo quando…” e aggiunge parole, disegni, simboli.
+>Le lanterne vengono appese in cerchio per creare una “costellazione di luce”.
+>🕊️ Confessioni
+>Spazio silenzioso e accogliente, con luci soffuse.
+>I ragazzi possono scrivere una preghiera o una parola su un foglietto da consegnare prima della confessione.
+>Dopo la confessione, ricevono una piccola candela accesa come segno di luce ritrovata.
+>
+>
+>🌄 Momento dell’alba – “Sotto il cielo che si sveglia”
+>Camminata all’alba con meditazione guidata
+>Lettura della storia “Il fiore che aspettava il sole”
+>Cerchio della gratitudine
+>Canzone: “Viva la vita” – Francesco Gabbani
+>“Ogni giorno Dio dipinge un’alba nuova, e oggi l’ha fatta per te.”
+>🎵 Canzone del giorno:
+>“Yakuza” – Elodie & Sfera E basta
+>“E se mi guardi così / Mi sento luce anche se non lo so…” Una canzone che parla di identità, luce interiore e forza personale.
 
-Benedizione.
-
-> Attività Venerdì
-
-### Orari del Pomeriggio
-
-```
-13:15   Gioco libero.
-14:15   Momento formativo (Michela).
-15:30   Gioco all’aperto (animatori San Giorgio).
-16:30   Merenda.
-17:00   Docce.
-18:30   Santa Messa.
-19:30   Cena. 
-20:30   Momento libero ed eventuali telefonate.
-21:00   Gioco serale (don Alex e Fabio).
-23:00   Preghiera della sera (Enrico) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la truttura della giornata di sabato.
-```
+>## Orari del Pomeriggio
+>
+>```
+>13:15   Gioco libero.
+>14:15   Momento formativo (Michela).
+>15:30   Gioco all’aperto (animatori San Giorgio).
+>16:30   Merenda.
+>17:00   Docce.
+>18:30   Santa Messa.
+>19:30   Cena. 
+>20:30   Momento libero ed eventuali telefonate.
+>21:00   Gioco serale (don Alex e Fabio).
+>23:00   Preghiera della sera (Enrico) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la truttura della giornata di sabato.
+>```
 
 ## L’ora delle stelle
 
@@ -711,48 +671,28 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 1) a cori alterni
+**Salmo**
 
-Beato l'uomo che non entra nel consiglio dei malvagi,
-non resta nella via dei peccatori
-e non siede in compagnia degli arroganti,
-ma nella legge del Signore trova la sua gioia,
-la sua legge medita giorno e notte.
+**Benedizione**
 
-È come albero piantato lungo corsi d'acqua,
-che dà frutto a suo tempo:
-le sue foglie non appassiscono
-e tutto quello che fa, riesce bene.
-
-Non così, non così i malvagi, ma come pula che il vento disperde;
-perciò non si alzeranno i malvagi nel giudizio
-né i peccatori nell'assemblea dei giusti,
-poiché il Signore veglia sul cammino dei giusti,
-mentre la via dei malvagi va in rovina.
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Signore Gesù, oggi ci hai donato il tuo perdono. Fa che sappiamo sempre riconoscere i meravigliosi talenti che tu ci hai dato per metterli a frutto per il bene nostro e di chi ci è accanto. Amen.
-
-Benedizione.
+## Diario
 
 ---
 
 # Sabato 23 agosto
 
-### Orari della Mattina
-
-```
-07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-07:30   Sveglia dei ragazzi.
-08:00   Preghiera del mattino (Enrico).
-08:15   Colazione.
-08:45   Lavaggio denti e sistemazione camere.
-09:15   Turni di pulizie.
-10:15   Momento Formativo (Stefano & Enrico).
-12:30   Pranzo.
-```
+>## Orari della Mattina
+>
+>```
+>07:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>07:30   Sveglia dei ragazzi.
+>08:00   Preghiera del mattino (Enrico).
+>08:15   Colazione.
+>08:45   Lavaggio denti e sistemazione camere.
+>09:15   Turni di pulizie.
+>10:15   Momento Formativo (Stefano & Enrico).
+>12:30   Pranzo.
+>```
 
 ## L’ora della luce
 
@@ -770,54 +710,69 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 8) a cori alterni
+**Salmo**
 
-O Signore, Signore nostro,
-quanto è mirabile il tuo nome su tutta la terra!
+**Benedizione**
 
-Voglio innalzare sopra i cieli la tua magnificenza,
-con la bocca di bambini e di lattanti:
-hai posto una difesa contro i tuoi avversari,
-per ridurre al silenzio nemici e ribelli.
+## Attività Sabato
 
-Quando vedo i tuoi cieli, opera delle tue dita,
-la luna e le stelle che tu hai fissato,
-che cosa è mai l'uomo perché di lui ti ricordi,
-il figlio dell'uomo, perché te ne curi?
-Davvero l'hai fatto poco meno di un dio,
-di gloria e di onore lo hai coronato.
-Gli hai dato potere sulle opere delle tue mani,
-tutto hai posto sotto i suoi piedi:
+>🌟 Tema del giorno:
+>Costruire relazioni vere – L’amicizia che porta a Gesù
 
-tutte le greggi e gli armenti
-e anche le bestie della campagna,
-gli uccelli del cielo e i pesci del mare,
-ogni essere che percorre le vie dei mari.
+- 📖 Vangelo – Marco 2,1-12
 
-O Signore, Signore nostro,
-quanto è mirabile il tuo nome su tutta la terra!
+>“Si recarono da lui portando un paralitico, sorretto da quattro persone. Non potendo però portarglielo innanzi, a causa della folla, scoperchiarono il tetto nel punto dove egli si trovava e, fatta un'apertura, calarono la barella su cui era adagiato il paralitico. Gesù, vedendo la loro fede, disse al paralitico: ‘Figlio, ti sono perdonati i peccati’.”
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+- La Storia "Il ponte"
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+Un contadino ed il suo bambino erano in cammino verso un paese vicino, per la fiera annuale.
+La strada passava sopra un ponticello di pietra sgretolato e traballante per il fiume in piena.
+Il bambino si spaventò.
+“Papà, pensi che il ponte reggerà?” domandò.
 
-Benedizione.
+Il padre rispose:
+“Ti terrò per mano, figlio mio!”
+Ed il bambino mise la sua mano in quella del padre.
+Con molta cautela attraversò il ponte a fianco di suo padre e giunsero a destinazione.
+Ritornarono che calava la sera.
+Mentre camminavano, il piccolo chiese:
 
-> Attività Sabato
+“E il fiume, papà?
+Come faremo ad attraversare quel ponte pericolante?
+Ho paura!”
+L’uomo forte e robusto prese in braccio il piccolino e gli disse:
+“Resta qui fra le mie braccia e sarai al sicuro!”
+Mentre il contadino avanzava con il suo prezioso fardello, il bambino si addormentò profondamente.
 
-### Orari del Pomeriggio
+Il mattino seguente il piccolo si svegliò e si ritrovò sano e salvo nel suo lettino.
+La luce del sole filtrava attraverso la finestra.
+Non si era neppure accorto di essere stato trasportato al di là del ponte, sopra il torrente impetuoso.
 
-```
-13:15   Gioco libero.
-14:00   Grande gioco (Tommaso, Alessandro & Maria).
-16:30   Merenda.
-17:00   Docce.
-19:30   Cena. 
-20:30   Momento libero e telefonate.
-21:00   Serale finale con condivisione (Michela & suor Claudia).
-23:00   Preghiera della sera (don Alex) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di domenica.
-```
+- Attività di gruppo
+
+>🤝 Attività principali
+>🧗‍♀️ Giochi di fiducia
+>“Caduta libera”: un ragazzo si lascia cadere all’indietro, fidandosi del gruppo che lo sostiene.
+>“Cammino bendato”: a coppie, uno guida l’altro attraverso un percorso.
+>💬 Cerchio di condivisione
+>Ogni ragazzo racconta un momento in cui si è sentito sostenuto da un amico.
+>Scrittura su foglietti: “Per me, amicizia è…” da appendere su un grande cartellone a forma di ponte.
+>🎵 Canzone del giorno:
+>“Amor” – Achille Lauro
+>“Amor, amor, amor / È quello che ci tiene insieme…” Una canzone che parla di legami, di fiducia, di un amore che costruisce e non distrugge.
+
+>## Orari del Pomeriggio
+>
+>```
+>13:15   Gioco libero.
+>14:00   Grande gioco (Tommaso, Alessandro & Maria).
+>16:30   Merenda.
+>17:00   Docce.
+>19:30   Cena. 
+>20:30   Momento libero e telefonate.
+>21:00   Serale finale con condivisione (Michela & suor Claudia).
+>23:00   Preghiera della sera (don Alex) e sistemazione per la notte. Quando i ragazzi si sono sistemati, breve riunione per ricordare la struttura della giornata di domenica.
+>```
 
 ## L’ora delle stelle
 
@@ -834,49 +789,28 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 73) a cori alterni
+**Salmo**
 
-Quanto è buono Dio con gli uomini retti,
-Dio con i puri di cuore!
-Io sono sempre con te:
-tu mi hai preso per la mano destra.
+**Benedizione**
 
-Mi guiderai secondo i tuoi disegni
-e poi mi accoglierai nella gloria.
-Chi avrò per me nel cielo?
-Con te non desidero nulla sulla terra.
-Vengono meno la mia carne e il mio cuore;
-ma Dio è roccia del mio cuore, mia parte per sempre.
-
-Ecco, si perderà chi da te si allontana;
-tu distruggi chiunque ti è infedele.
-Per me, il mio bene è stare vicino a Dio;
-nel Signore Dio ho posto il mio rifugio,
-per narrare tutte le tue opere.
-
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
-
-G: Signore, fa che la nostra vita sia illuminata da ciò che ci insegni, fa che questa luce brilli nei nostri cuori come luce che splende sul monte. Fa che siamo riconoscenti per tutto ciò che ci hai dato in questa settimana. Amen.
-
-Benedizione.
+## Diario
 
 ---
 
 # Domenica 24 agosto
 
-### Orari della Mattina
-
-```
-08:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
-08:30   Sveglia dei ragazzi.
-09:00   Preghiera del mattino (Stefano).
-09:15   Colazione.
-09:45   Lavaggio denti e preparazione valigie.
-10:15   Preparazione della Santa Messa in squadre.
-11:15   Santa Messa domenicale.
-12:30   Pranzo.
-```
+>## Orari della Mattina
+>
+>```
+>08:00   Ritrovo animatori per il caffè. Lodi del mattino (don Alex).
+>08:30   Sveglia dei ragazzi.
+>09:00   Preghiera del mattino (Stefano).
+>09:15   Colazione.
+>09:45   Lavaggio denti e preparazione valigie.
+>10:15   Preparazione della Santa Messa in squadre.
+>11:15   Santa Messa domenicale.
+>12:30   Pranzo.
+>```
 
 ## L’ora della luce
 
@@ -894,45 +828,87 @@ per la maggior tua gloria.
 Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-#### SALMO (dal salmo 62) a cori alterni
+**Salmo**
 
-O Dio, tu sei il mio Dio, all'aurora ti cerco, di te ha sete l'anima mia,
-a te anela la mia carne, come terra deserta, arida, senz'acqua.
+**Benedizione**
 
-Così nel santuario ti ho cercato,
-per contemplare la tua potenza e la tua gloria.
-Poiché la tua grazia vale più della vita,
-le mie labbra diranno la tua lode.
+## Attività Domenica
 
-Così ti benedirò finché io viva,
-nel tuo nome alzerò le mie mani.
-Mi sazierò come a un grande banchetto,
-e con voci di gioia ti loderà la mia bocca.
+>🌟 Tema del giorno:
+>Scegliere il bene: “La via stretta”
 
-Quando nel mio letto di te mi ricordo
-e penso a te nelle veglie notturne,
-a te che sei stato il mio aiuto,
-esulto di gioia all'ombra delle tue ali.
+- 📖 Vangelo – Matteo 28,16-20
 
-A te si stringe l'anima mia
-e la forza della tua destra mi sostiene.
+>“Andate dunque e fate discepoli tutti i popoli, battezzandoli nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto ciò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo.”
 
-Gloria al Padre e al Figlio e allo Spirito Santo,
-come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+- La Storia "Il seme"
 
-G: Signore, ti rendiamo grazie perché non solo ci hai donato la vita, ma ci dai in ogni istante la gioia di sentirci infinitamente amati da te. Donaci un cuore nuovo, un cuore capace di stupirsi per le meraviglie del tuo amore; un cuore grato, che sappia farsi dono per chi incontra. Tocca il nostro cuore perché ogni azione, parola e preghiera sia espressione di stupore e bellezza. Amen.
+Non si sa come fosse capitato proprio là, ma nella manciata di grossi e lucidi grani di frumento c’era un granellino nero nero, così piccolo che era quasi invisibile.
+Il contadino buttò la manciata di semi nella terra aperta dall’aratro.
+Con grande dignità e profonda consapevolezza della loro missione, i semi di grano presero posto nelle loro culle di buona e profumata terra.
+Ma quando arrivò il semino nero, scoppiò tra le zolle una gran risata.
+“Pussa via, sgorbietto inutile!” brontolò stizzito un grosso seme di frumento che si era ricevuto il semino nero proprio sulla pancia.
 
-Benedizione.
+“Chiedo scusa, signore.” mormorò il granellino, “Sono spiacente!”
+“È il seme più ridicolo che mi sia capitato di vedere!” sbraitò il bulbo di una cipolla selvatica.
+Le erbe del fossato, vecchie e pettegole, cominciarono a dire malignità di ogni sorta sui semi moderni che ciondolano qua e là e non riescono a combinare niente.
+Anche i semi di papavero ridevano e l’avena, già alta, propagò al vento il suo parere:
+“Divento gialla se ne uscirà una fogliolina sola!”
+Il piccolo seme si sentì avvilito da quelle voci di disprezzo, che il vento, gran chiacchierone, sparpagliava dappertutto.
+Si fece ancora più piccolo, in un cantuccio di terreno, ma non si scoraggiò.
+Non aveva nessuna intenzione di mancare alla sua missione.
+Qualcosa era pur capace di fare!
+Sognò di crescere alto fino a sovrastare anche le canne dello stagno…
+“Chissà se l’avena diventerà gialla per davvero.” pensò.
 
-> Attività Domenica
+Voleva riuscirci a tutti i costi!
+Lasciò che i grossi semi di frumento si crogiolassero pigramente deridendolo e facendosi beffe della sua piccolezza.
+Egli affondò subito le radici nel terreno umido e pieno di squisito nutrimento.
+Fu un inverno faticosissimo per lui.
+Gli altri semi si godevano il tepore profumato della terra, facevano le cose con calma.
+Giocavano a carte o agli indovinelli per passare il tempo.
+Il piccolo seme invece ce la metteva tutta.
+Sbuffava, sudava, ma impegnava nella sfida tutte le sue forze.
 
-### Orari del Pomeriggio
+C’era freddo fuori!
+Non importava.
+Il piccolo stelo si aprì la strada verso il cielo senza paura.
+Venne l’estate.
+I viandanti che percorrevano la stradina accanto al campo di grano si fermavano e additavano meravigliati una pianta alta e rigogliosa che dominava la distesa del grano.
+Un mattino dorato passò anche il Signore.
+Chiacchierava con i suoi apostoli, parlando loro dei gigli del campo e degli uccelli dell’aria.
+Giunto davanti alla pianta sì fermò e la guardò con intensità.
+I passerotti smisero di far chiasso e anche il vento, che si divertiva a far frusciare gli steli del grano e ad arruffare l’erba del fosso, tacque sospeso.
+Gesù sapeva l’enorme fatica del piccolo seme nell’inverno e volle coronare la fiducia che aveva avuto in se stesso.
 
-```
-13:15   Gioco libero.
-14:00   Pulizie e sistemazione generale della casa.
-16:00   Partenza per il rientro a casa.
-```
+Disse:
+“Guardate il granello di senape.
+È il più piccolo di tutti i semi, ma quando è cresciuto, è più grande di tutte le piante dell’orto; diventa un albero, tanto grande che gli uccelli vengono a fare il nido in mezzo ai suoi rami.”
+Il frumento, che si aspettava qualche elogio sulla sua importanza, quasi seccò per l’invidia.
+Il piccolo seme nero, là sotto, esplodeva di gioia.
+
+- Attività di gruppo
+
+>🎉 Attività principali
+>🧩 Riflessione personale
+>Ogni ragazzo riceve un foglietto con la frase: “Un giorno per domani è…” da completare.
+>Scrittura di una lettera a sé stessi: “Cosa voglio portare con me da questo campo?”
+>🕊️ Celebrazione finale
+>Messa conclusiva con il rito dell’invio.
+>Consegna di un piccolo simbolo (una pietra, una candela, un seme…) come segno del cammino.
+>💌 Scatola dei ricordi
+>Ogni ragazzo mette nella scatola un oggetto, un pensiero, una parola che rappresenta il campo.
+>La scatola sarà custodita dalla parrocchia e riaperta in un momento speciale.
+
+>## Orari del Pomeriggio
+>
+>```
+>13:15   Gioco libero.
+>14:00   Pulizie e sistemazione generale della casa.
+>16:00   Partenza per il rientro a casa.
+>```
+
+## Diario
 
 # Canti
 
@@ -1138,4 +1114,251 @@ e nel mondo deserto aprirai
 una strada nuova. (2 volte)
 E per questa strada va, va e non voltarti indietro va.
 
-> “Un sogno per domani” non è solo il titolo di un film. È la promessa che, se ci credi abbastanza, un gesto può fare la differenza. E magari, tra i banchi di scuola, proprio tu puoi essere il prossimo Trevor.
+# Preghiere
+
+## 📅 Preghiere del mattino per 7 giorni
+
+### 1️⃣ Lunedì — Scegliere il bene
+
+“Gesù, oggi voglio scegliere la tua via. Anche se è stretta, anche se non è la più facile. Aiutami a camminare con coraggio, ad ascoltare il tuo cuore e a dire di sì al bene. Cammina accanto a me. Amen.”
+
+### 2️⃣ Martedì — Il dono gratuito
+
+“Signore, oggi voglio regalare un sorriso, un gesto, una parola buona… senza aspettarmi nulla. Fammi capire che il vero amore è gratuito, come il tuo. Rendimi capace di fare il bene in segreto, solo per Te. Amen.”
+
+### 3️⃣ Mercoledì — Amare anche quando costa
+
+“Gesù, insegnami ad amare anche quando fa male, anche quando è difficile. Voglio imparare da Te che hai perdonato e abbracciato tutti. Dammi forza per superare la paura e trasformarla in amore. Amen.”
+
+### 4️⃣ Giovedì — Passare il bene agli altri
+
+“Oggi, Signore, fammi essere un messaggero del bene. Fai che ogni cosa bella che ricevo non si fermi con me, ma scorra come un fiume. Aiutami a essere luce e sorriso per chi incontro oggi. Amen.”
+
+### 5️⃣ Venerdì — Essere luce nel mondo
+
+“Padre, oggi voglio brillare con la luce che hai messo in me. Fammi scoprire i miei talenti e usarli per accendere la gioia negli altri. Non lasciarmi spegnere dai giudizi, ma incoraggiami con la tua voce. Amen.”
+
+### 6️⃣ Sabato — Costruire relazioni vere
+
+“Gesù, manda sulla mia strada amici veri, e rendimi capace di esserlo anch’io. Fammi superare la diffidenza, e aiutami a camminare insieme. Dove c’è fiducia, ci sei tu. Dove c’è amicizia, c’è il tuo amore. Amen.”
+
+### 7️⃣ Domenica — Celebrare insieme
+
+“Grazie, Signore, per questa settimana. Per ogni sorriso, ogni abbraccio, ogni scoperta. Oggi voglio celebrarti con gioia e con i miei amici. Tu sei il Bene che ci tiene uniti. Ti affido il mio domani. Amen.”
+
+## ✨ Preghiere del “Momento delle stelle”
+
+### 1️⃣ Lunedì – Scegliere il bene
+
+“Signore, grazie per questo primo giorno. A volte scegliere il bene è faticoso, ma Tu cammini con me. Aiutami a ricordare che ogni scelta che porta amore è una piccola luce nel buio. Veglia su di me stanotte. Amen.”
+
+### 2️⃣ Martedì – Il dono gratuito
+
+“Gesù, oggi ho provato a donare con il cuore. Grazie per ogni sorriso che ho ricevuto, per ogni gesto nascosto che ho offerto. Fa’ che anche nel silenzio il bene continui a vivere. Custodiscimi nel tuo abbraccio. Amen.”
+
+### 3️⃣ Mercoledì – Amare anche quando costa
+
+“Padre buono, oggi ho capito quanto l’amore possa ferire, ma anche quanto possa guarire. Grazie per chi mi ha aiutato a perdonare e capire. Aiutami a non chiudere il cuore. Avvolgimi nella tua pace. Amen.”
+
+### 4️⃣ Giovedì – Passare il bene agli altri
+
+“Questa giornata è stata piena di passi, parole e gesti che hanno camminato insieme. Grazie perché il bene può passare di mano in mano come una stella cadente. Fammi essere ponte tra le persone. Amen.”
+
+### 5️⃣ Venerdì – Essere luce nel mondo
+
+“Signore, oggi ho visto la bellezza dei doni che hai messo in ognuno di noi. Fa’ che io non li tenga solo per me, ma li usi per illuminare chi è nel buio. Resta accanto a me, luce che non si spegne. Amen.”
+
+### 6️⃣ Sabato – Costruire relazioni vere
+
+“Gesù, grazie per gli abbracci sinceri, per le risate condivise, per le lacrime che non fanno paura. Tu sei nel cuore dell’amicizia. Fai che i legami nati oggi crescano forti e veri. Buona notte, Maestro dell’amore. Amen.”
+
+### 7️⃣ Domenica – Celebrare insieme
+
+“Padre, è arrivata la fine… ma è solo l’inizio di qualcosa di nuovo. Grazie per questa settimana, per ogni incontro, ogni parola, ogni istante che ha brillato. Custodisci i ricordi nel mio cuore e accompagnami nel domani. Amen.”
+
+# SALMI
+
+#### SALMO (dal salmo 121) a cori alterni
+
+Alzo gli occhi verso i monti: da dove mi verrà l'aiuto?
+Il mio aiuto viene dal Signore: egli ha fatto cielo e terra.
+
+Non lascerà vacillare il tuo piede,
+non si addormenterà il tuo custode.
+Non si addormenterà, non prenderà sonno il custode d'Israele.
+
+Il Signore è il tuo custode,
+il Signore è la tua ombra e sta alla tua destra.
+
+Di giorno non ti colpirà il sole, né la luna di notte.
+Il Signore ti custodirà da ogni male:
+egli custodirà la tua vita.
+
+Il Signore ti custodirà quando esci e quando entri,
+da ora e per sempre.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 89) a cori alterni
+
+Canterò in eterno l'amore del Signore,
+di generazione in generazione
+farò conoscere con la mia bocca la tua fedeltà,
+
+perché ho detto: "È un amore edificato per sempre;
+nel cielo rendi stabile la tua fedeltà".
+Stabilirò per sempre la tua discendenza,
+di generazione in generazione edificherò il tuo trono".
+
+I cieli cantano le tue meraviglie, Signore,
+la tua fedeltà nell'assemblea dei santi.
+
+Beato il popolo che ti sa acclamare:
+camminerà, Signore, alla luce del tuo volto;
+esulta tutto il giorno nel tuo nome,
+si esalta nella tua giustizia.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 15) a cori alterni
+
+Proteggimi, o Dio: in te mi rifugio.
+Ho detto al Signore: «Il mio Signore sei tu, solo in te è il mio bene».
+
+Benedico il Signore che mi ha dato consiglio;
+anche di notte il mio animo mi istruisce.
+Io pongo sempre davanti a me il Signore,
+sta alla mia destra, non potrò vacillare.
+
+Per questo gioisce il mio cuore ed esulta la mia anima;
+anche il mio corpo riposa al sicuro.
+
+Mi indicherai il sentiero della vita,
+gioia piena alla tua presenza, dolcezza senza fine alla tua destra.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 51) a cori alterni
+
+Pietà di me, o Dio, nel tuo amore;
+nella tua grande misericordia
+cancella la mia iniquità.
+Lavami tutto dalla mia colpa,
+dal mio peccato rendimi puro.
+
+Sì, le mie iniquità io le riconosco,
+il mio peccato mi sta sempre dinanzi.
+Contro di te, contro te solo ho peccato,
+quello che è male ai tuoi occhi, io l'ho fatto:
+così sei giusto nella tua sentenza,
+sei retto nel tuo giudizio.
+
+Ecco, nella colpa io sono nato,
+nel peccato mi ha concepito mia madre.
+Ma tu gradisci la sincerità nel mio intimo,
+nel segreto del cuore mi insegni la sapienza.
+
+Lavami e sarò più bianco della neve.
+Fammi sentire gioia e letizia:
+esulteranno le ossa che hai spezzato.
+Distogli lo sguardo dai miei peccati,
+cancella tutte le mie colpe.
+
+Crea in me, o Dio, un cuore puro,
+rinnova in me uno spirito saldo.
+Rendimi la gioia della tua salvezza,
+sostienimi con uno spirito generoso.
+
+Signore, apri le mie labbra
+e la mia bocca proclami la tua lode.
+Tu non gradisci il sacrificio;
+se offro olocausti, tu non li accetti.
+
+Uno spirito contrito è sacrificio a Dio;
+un cuore contrito e affranto tu, o Dio, non disprezzi.
+Nella tua bontà fa' grazia a Sion,
+ricostruisci le mura di Gerusalemme.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 1) a cori alterni
+
+Beato l'uomo che non entra nel consiglio dei malvagi,
+non resta nella via dei peccatori
+e non siede in compagnia degli arroganti,
+ma nella legge del Signore trova la sua gioia,
+la sua legge medita giorno e notte.
+
+È come albero piantato lungo corsi d'acqua,
+che dà frutto a suo tempo:
+le sue foglie non appassiscono
+e tutto quello che fa, riesce bene.
+
+Non così, non così i malvagi, ma come pula che il vento disperde;
+perciò non si alzeranno i malvagi nel giudizio
+né i peccatori nell'assemblea dei giusti,
+poiché il Signore veglia sul cammino dei giusti,
+mentre la via dei malvagi va in rovina.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 8) a cori alterni
+
+O Signore, Signore nostro,
+quanto è mirabile il tuo nome su tutta la terra!
+
+Voglio innalzare sopra i cieli la tua magnificenza,
+con la bocca di bambini e di lattanti:
+hai posto una difesa contro i tuoi avversari,
+per ridurre al silenzio nemici e ribelli.
+
+Quando vedo i tuoi cieli, opera delle tue dita,
+la luna e le stelle che tu hai fissato,
+che cosa è mai l'uomo perché di lui ti ricordi,
+il figlio dell'uomo, perché te ne curi?
+Davvero l'hai fatto poco meno di un dio,
+di gloria e di onore lo hai coronato.
+Gli hai dato potere sulle opere delle tue mani,
+tutto hai posto sotto i suoi piedi:
+
+tutte le greggi e gli armenti
+e anche le bestie della campagna,
+gli uccelli del cielo e i pesci del mare,
+ogni essere che percorre le vie dei mari.
+
+O Signore, Signore nostro,
+quanto è mirabile il tuo nome su tutta la terra!
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
+
+#### SALMO (dal salmo 62) a cori alterni
+
+O Dio, tu sei il mio Dio, all'aurora ti cerco, di te ha sete l'anima mia,
+a te anela la mia carne, come terra deserta, arida, senz'acqua.
+
+Così nel santuario ti ho cercato,
+per contemplare la tua potenza e la tua gloria.
+Poiché la tua grazia vale più della vita,
+le mie labbra diranno la tua lode.
+
+Così ti benedirò finché io viva,
+nel tuo nome alzerò le mie mani.
+Mi sazierò come a un grande banchetto,
+e con voci di gioia ti loderà la mia bocca.
+
+Quando nel mio letto di te mi ricordo
+e penso a te nelle veglie notturne,
+a te che sei stato il mio aiuto,
+esulto di gioia all'ombra delle tue ali.
+
+A te si stringe l'anima mia
+e la forza della tua destra mi sostiene.
+
+Gloria al Padre e al Figlio e allo Spirito Santo,
+come era nel principio e ora e sempre nei secoli dei secoli. Amen.
