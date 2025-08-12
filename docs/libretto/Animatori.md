@@ -194,7 +194,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Signore, grazie per questo primo giorno. A volte scegliere il bene è faticoso, ma Tu cammini con me. Aiutami a ricordare che ogni scelta che porta amore è una piccola luce nel buio. Veglia su di me stanotte. Amen.”
 
 **Benedizione**
 
@@ -310,7 +310,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Gesù, oggi ho provato a donare con il cuore. Grazie per ogni sorriso che ho ricevuto, per ogni gesto nascosto che ho offerto. Fa’ che anche nel silenzio il bene continui a vivere. Custodiscimi nel tuo abbraccio. Amen.”
 
 **Benedizione**
 
@@ -452,7 +452,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Padre buono, oggi ho capito quanto l’amore possa ferire, ma anche quanto possa guarire. Grazie per chi mi ha aiutato a perdonare e capire. Aiutami a non chiudere il cuore. Avvolgimi nella tua pace. Amen.”
 
 **Benedizione**
 
@@ -563,7 +563,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Questa giornata è stata piena di passi, parole e gesti che hanno camminato insieme. Grazie perché il bene può passare di mano in mano come una stella cadente. Fammi essere ponte tra le persone. Amen.”
 
 **Benedizione**
 
@@ -618,7 +618,35 @@ La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
 - La Storia "La candela che non voleva bruciare"
 
-xxx
+Questo non si era mai visto:
+una candela che rifiuta di accendersi.
+Tutte le candele dell’armadio inorridirono.
+Una candela che non voleva accendersi era una cosa inaudita!
+Mancavano pochi giorni a Natale e tutte le candele erano eccitate all’idea di essere protagoniste della festa, con la luce, il profumo, la bellezza che irradiavano e comunicavano a tutti.
+Eccetto quella giovane candela rossa e dorata che ripeteva ostinatamente:
+
+“No e poi no!
+Io non voglio bruciare.
+Quando veniamo accese, in un attimo ci consumiamo.
+Io voglio rimanere così come sono:
+elegante, bella e soprattutto intera!”
+“Se non bruci è come se fossi già morta senza essere vissuta!” replicò un grosso cero, che aveva già visto due Natali, “Tu sei fatta di cera e stoppino ma questo è niente.
+Quando bruci sei veramente tu e sei completamente felice.”
+
+“No, grazie tante,”
+rispose la candela rossa, “ammetto che il buio, il freddo e la solitudine sono orribili, ma è sempre meglio che soffrire per una fiamma che brucia.”
+“La vita non è fatta di parole e non si può capire con le parole, bisogna passarci dentro,” continuò il cero, “solo chi impegna il proprio essere cambia il mondo e allo stesso tempo cambia se stesso.
+Se lasci che la solitudine, il buio e il freddo avanzino, avvolgeranno il mondo!”
+“Vuoi dire che noi serviamo a combattere il freddo, le tenebre e la solitudine?” chiese la candela.
+“Certo,” ribadì il cero, “ci consumiamo e perdiamo eleganza e colori, ma diventiamo utili e stimati.
+Siamo i cavalieri della luce.”
+“Ma ci consumiamo e perdiamo forma e colore?”
+
+domandò ancora la candela.
+“Sì, ma siamo più forti della notte e del gelo del mondo!” concluse il cero.
+Così anche la candela rossa e dorata si lasciò accendere.
+Brillò nella notte con tutto il suo cuore e trasformò in luce la sua bellezza, come se dovesse sconfiggere da sola tutto il freddo e il buio del mondo.
+La cera e lo stoppino si consumarono piano piano, ma la luce della candela continuò a splendere a lungo negli occhi e nel cuore degli uomini per i quali era bruciata.
 
 - Attività di gruppo
 
@@ -673,7 +701,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Signore, oggi ho visto la bellezza dei doni che hai messo in ognuno di noi. Fa’ che io non li tenga solo per me, ma li usi per illuminare chi è nel buio. Resta accanto a me, luce che non si spegne. Amen.”
 
 **Benedizione**
 
@@ -791,7 +819,7 @@ e, se qualche bene compiuto, accettalo.
 Custodiscimi nel riposo e liberami dai pericoli.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
-**Salmo**
+“Gesù, grazie per gli abbracci sinceri, per le risate condivise, per le lacrime che non fanno paura. Tu sei nel cuore dell’amicizia. Fai che i legami nati oggi crescano forti e veri. Buona notte, Maestro dell’amore. Amen.”
 
 **Benedizione**
 
@@ -831,6 +859,8 @@ Preservami dal peccato e da ogni male.
 La tua grazia sia sempre con me e con tutti i miei cari. Amen.
 
 **Salmo**
+
+“Padre, è arrivata la fine… ma è solo l’inizio di qualcosa di nuovo. Grazie per questa settimana, per ogni incontro, ogni parola, ogni istante che ha brillato. Custodisci i ricordi nel mio cuore e accompagnami nel domani. Amen.”
 
 **Benedizione**
 
@@ -1115,68 +1145,6 @@ e sarai sale della terra
 e nel mondo deserto aprirai
 una strada nuova. (2 volte)
 E per questa strada va, va e non voltarti indietro va.
-
-# Preghiere
-
-## 📅 Preghiere del mattino per 7 giorni
-
-### 1️⃣ Lunedì — Scegliere il bene
-
-“Gesù, oggi voglio scegliere la tua via. Anche se è stretta, anche se non è la più facile. Aiutami a camminare con coraggio, ad ascoltare il tuo cuore e a dire di sì al bene. Cammina accanto a me. Amen.”
-
-### 2️⃣ Martedì — Il dono gratuito
-
-“Signore, oggi voglio regalare un sorriso, un gesto, una parola buona… senza aspettarmi nulla. Fammi capire che il vero amore è gratuito, come il tuo. Rendimi capace di fare il bene in segreto, solo per Te. Amen.”
-
-### 3️⃣ Mercoledì — Amare anche quando costa
-
-“Gesù, insegnami ad amare anche quando fa male, anche quando è difficile. Voglio imparare da Te che hai perdonato e abbracciato tutti. Dammi forza per superare la paura e trasformarla in amore. Amen.”
-
-### 4️⃣ Giovedì — Passare il bene agli altri
-
-“Oggi, Signore, fammi essere un messaggero del bene. Fai che ogni cosa bella che ricevo non si fermi con me, ma scorra come un fiume. Aiutami a essere luce e sorriso per chi incontro oggi. Amen.”
-
-### 5️⃣ Venerdì — Essere luce nel mondo
-
-“Padre, oggi voglio brillare con la luce che hai messo in me. Fammi scoprire i miei talenti e usarli per accendere la gioia negli altri. Non lasciarmi spegnere dai giudizi, ma incoraggiami con la tua voce. Amen.”
-
-### 6️⃣ Sabato — Costruire relazioni vere
-
-“Gesù, manda sulla mia strada amici veri, e rendimi capace di esserlo anch’io. Fammi superare la diffidenza, e aiutami a camminare insieme. Dove c’è fiducia, ci sei tu. Dove c’è amicizia, c’è il tuo amore. Amen.”
-
-### 7️⃣ Domenica — Celebrare insieme
-
-“Grazie, Signore, per questa settimana. Per ogni sorriso, ogni abbraccio, ogni scoperta. Oggi voglio celebrarti con gioia e con i miei amici. Tu sei il Bene che ci tiene uniti. Ti affido il mio domani. Amen.”
-
-## ✨ Preghiere del “Momento delle stelle”
-
-### 1️⃣ Lunedì – Scegliere il bene
-
-“Signore, grazie per questo primo giorno. A volte scegliere il bene è faticoso, ma Tu cammini con me. Aiutami a ricordare che ogni scelta che porta amore è una piccola luce nel buio. Veglia su di me stanotte. Amen.”
-
-### 2️⃣ Martedì – Il dono gratuito
-
-“Gesù, oggi ho provato a donare con il cuore. Grazie per ogni sorriso che ho ricevuto, per ogni gesto nascosto che ho offerto. Fa’ che anche nel silenzio il bene continui a vivere. Custodiscimi nel tuo abbraccio. Amen.”
-
-### 3️⃣ Mercoledì – Amare anche quando costa
-
-“Padre buono, oggi ho capito quanto l’amore possa ferire, ma anche quanto possa guarire. Grazie per chi mi ha aiutato a perdonare e capire. Aiutami a non chiudere il cuore. Avvolgimi nella tua pace. Amen.”
-
-### 4️⃣ Giovedì – Passare il bene agli altri
-
-“Questa giornata è stata piena di passi, parole e gesti che hanno camminato insieme. Grazie perché il bene può passare di mano in mano come una stella cadente. Fammi essere ponte tra le persone. Amen.”
-
-### 5️⃣ Venerdì – Essere luce nel mondo
-
-“Signore, oggi ho visto la bellezza dei doni che hai messo in ognuno di noi. Fa’ che io non li tenga solo per me, ma li usi per illuminare chi è nel buio. Resta accanto a me, luce che non si spegne. Amen.”
-
-### 6️⃣ Sabato – Costruire relazioni vere
-
-“Gesù, grazie per gli abbracci sinceri, per le risate condivise, per le lacrime che non fanno paura. Tu sei nel cuore dell’amicizia. Fai che i legami nati oggi crescano forti e veri. Buona notte, Maestro dell’amore. Amen.”
-
-### 7️⃣ Domenica – Celebrare insieme
-
-“Padre, è arrivata la fine… ma è solo l’inizio di qualcosa di nuovo. Grazie per questa settimana, per ogni incontro, ogni parola, ogni istante che ha brillato. Custodisci i ricordi nel mio cuore e accompagnami nel domani. Amen.”
 
 # SALMI
 
