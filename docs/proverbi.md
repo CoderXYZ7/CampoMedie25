@@ -1,0 +1,23 @@
+# Proverbi
+
+- Rosso di sera **bel tempo si spera**.
+- Non piangere sul **latte versato**.
+- Il lupo perde il pelo **ma non il vizio**.
+- Ridi ridi, **che la mamma ha fatto gli gnocchi**.
+- Chi cammina con lo zoppo **impara a zoppicare**.
+- Chi dorme **non piglia pesci**.
+- A caval donato **non si guarda in bocca**.
+- Al contadino non far sapere **quanto è buono il formaggio con le pere**.
+- Chi non risica **non rosica**.
+- Se mia nonna avesse avuto le ruote **Sarebbe stata una bicicletta**.
+- I primi **saranno gli ultimi**.
+- Non puoi avere la botte piena **e la moglie ubrica**.
+- Le bugie hanno **le gambe corte**.
+- Non è tutto oro **quel che luccica**.
+- Morto un papa **se ne fa un altro**.
+- Lontano dagli occhi, **lontano dal cuore**.
+- A buon intenditor, **poche parole**.
+- Uomo avvisato **mezzo salvato**.
+- Il gioco è bello **quando dura poco**.
+- Tra moglie e marito **non mettere il dito**.
+- Il mondo è fatto a scale. **C’è chi scende e c’è chi sale**.

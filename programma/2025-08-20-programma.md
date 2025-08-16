@@ -1,22 +1,27 @@
 # Mercoledì 20 agosto
 
 ## Orari
-07:30 - Sveglia
-07:30-08:30 - Risveglio muscolare e preghiera "L'ora della luce"
-08:30 - Colazione
-09:00 - Avvisi della giornata e igiene personale
-09:15-09:30 - Inizio pulizie (come da cartellone)
-10:00 - Ritrovo in salone, presentazione tema della giornata e lettura del Vangelo
-10:45-12:00 - Lavoro di gruppo
+
+07:00- Caffè animatori
+07:15- Lodi animatori
+07:30- Sveglia dei ragazzi
+07:45- Risveglio muscolare (Luca,Pietro,Christian) e preghiera "L'ora della luce"
+08:15/08:30 - Colazione e avvisi della giornata
+08:45 - Igiene personale
+09:00-09:15 - Inizio pulizie (come da cartellone)
+10:00 - Ritrovo in salone, presentazione tema della giornata e lettura del Vangelo, canzone. Momento formativo per tutti guidato da Michela (storia del falegname e del figlio) con attività. 
+11:15/11:30- Se rimane tempo riflessione libera nei gruppi sul giudizio
+12:00 - condivisione tutti insieme
 12:30 - Pranzo
-14:30-15:30 - Gioco
+14:00-15:00 - Gioco semplice nel giardino della casa: palla prigioniera (Chiara G. e Chiara P.)--> nel frattempo si prepara per l'attività dei gnocchi
+15:15 - Inizio spiegazione dell'attività dei gnocchi: significato, modalità,ecc... (Vince, ???) 
 15:30 - Preparazione degli gnocchi: i ragazzi conquistano gli ingredienti superando piccole prove
-17:00 - Merenda
+17:30 - Merenda
 18:00 - Docce
-19:30 - Cena
-21:00-21:30 - Serata in allegria
-23:00 - Ora delle stelle
-23:30 - Buonanotte
+19:30 - Cena + condivisione della finestra del giorno
+21:00- Serata, piccolo cluedo (Daniele ed Enrico)
+22:45 - Ora delle stelle
+23:00/23.15 - Buonanotte presto
 
 ### Guida alla riflessione
 
@@ -37,7 +42,6 @@ Scrittura su foglietti: “Chi vorresti perdonare oggi?” (da conservare o bruc
 “Anche Fragile" - Elisa
 “Anche Fragile” di Elisa parla di accettare la propria vulnerabilità come parte della forza e dell’autenticità personale.
 
-### Guida per la riflessione
 ### Attività
 Mattina
 Storia del Falegname

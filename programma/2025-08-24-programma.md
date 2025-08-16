@@ -12,7 +12,6 @@
 12:30 - Pranzo
 14:30 - Partenza
 
-
 ### Guida alla riflessione
 
 🌟 Tema del giorno:

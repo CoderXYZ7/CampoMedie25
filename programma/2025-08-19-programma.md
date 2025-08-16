@@ -2,18 +2,21 @@
 
 ## Orari
 
-07:30 - Sveglia
-07:30-08:30 - Risveglio muscolare e preghiera "L'ora della luce"
-08:30 - Colazione
-09:00 - Avvisi della giornata e igiene personale
-09:15-09:30 - Inizio pulizie (come da cartellone)
-10:00 - Ritrovo per uscita al Lago Superiore - attività del mattino svolta in loco
-10:00-14:30/15:00 - Attività al Lago Superiore e rientro
-15:00 - Attività della Torcia
-17:00 - Merenda
+07:00- Caffè animatori
+07:15- Lodi animatori
+07:30- Sveglia dei ragazzi
+07:45- Risveglio muscolare (Luca,Pietro,Christian) e preghiera "L'ora della luce"
+08:15/08:30 - Colazione e avvisi della giornata
+08:45 - Igiene personale
+09:00-09:15 - Inizio pulizie (come da cartellone)
+10:00 - Ritrovo per uscita al Lago Superiore e spiegazione dell' attività del mattino:cuore segreto da fare durante la camminata (??). In loco:Vangelo,riflessione e canzone + attività: ogni ragazzo scrive un gesto di bene che ha fatto o farà in segreto durante la camminata, al ritorno alla casa lo dovranno appendere alla finestra del giorno (??) 
+14:30 - Rientro, momento libero
+15:00/15:30 - Attività della Torcia (??)
+17:30 - Merenda
 18:00 - Docce
-19:30 - Cena
-21:00-21:30 - Serata in allegria
+19:30 - Cena + condivisione dei post-it della finestra del giorno 
+20:30/20:45 - Consegna cellulari (Chiara G., Chiara P.)
+21:00-21:15 - Serata sarabanda e assassino in discoteca (Luca + Lucia)
 23:00 - Ora delle stelle
 23:30 - Buonanotte
 

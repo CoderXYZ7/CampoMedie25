@@ -1,0 +1,247 @@
+[
+    {
+        "category": 1,
+        "categoryName": "Geografia",
+        "level": 1,
+        "value": 100,
+        "text": "Qual è la capitale della Francia?",
+        "type": "normal"
+    },
+    {
+        "category": 1,
+        "categoryName": "Geografia",
+        "level": 2,
+        "value": 200,
+        "text": "In quale anno è caduto il muro di Berlino?",
+        "type": "double_risk"
+    },
+    {
+        "category": 1,
+        "categoryName": "Geografia",
+        "level": 3,
+        "value": 300,
+        "text": "Chi ha scritto la Divina Commedia?",
+        "type": "stop"
+    },
+    {
+        "category": 1,
+        "categoryName": "Geografia",
+        "level": 4,
+        "value": 400,
+        "text": "Qual è il fiume più lungo d'Italia?",
+        "type": "solo"
+    },
+    {
+        "category": 1,
+        "categoryName": "Geografia",
+        "level": 5,
+        "value": 500,
+        "text": "Quanti sono gli elementi della tavola periodica?",
+        "type": "team_play"
+    },
+    
+    {
+        "category": 2,
+        "categoryName": "Scienze",
+        "level": 1,
+        "value": 100,
+        "text": "Quale pianeta è chiamato il 'pianeta rosso'?",
+        "type": "normal"
+    },
+    {
+        "category": 2,
+        "categoryName": "Scienze",
+        "level": 2,
+        "value": 200,
+        "text": "Qual è la montagna più alta del mondo?",
+        "type": "multiple_choice"
+    },
+    {
+        "category": 2,
+        "categoryName": "Scienze",
+        "level": 3,
+        "value": 300,
+        "text": "In quale oceano si trova la fossa delle Marianne?",
+        "type": "double_risk"
+    },
+    {
+        "category": 2,
+        "categoryName": "Scienze",
+        "level": 4,
+        "value": 400,
+        "text": "Quale è il lago più profondo del mondo?",
+        "type": "stop"
+    },
+    {
+        "category": 2,
+        "categoryName": "Scienze",
+        "level": 5,
+        "value": 500,
+        "text": "Qual è il deserto più grande del mondo?",
+        "type": "solo"
+    },
+    
+    {
+        "category": 3,
+        "categoryName": "Arte",
+        "level": 1,
+        "value": 100,
+        "text": "Chi ha dipinto la Cappella Sistina?",
+        "type": "normal"
+    },
+    {
+        "category": 3,
+        "categoryName": "Arte",
+        "level": 2,
+        "value": 200,
+        "text": "Quale artista ha creato 'Guernica'?",
+        "type": "multiple_choice"
+    },
+    {
+        "category": 3,
+        "categoryName": "Arte",
+        "level": 3,
+        "value": 300,
+        "text": "In quale città si trova il Museo del Prado?",
+        "type": "double_risk"
+    },
+    {
+        "category": 3,
+        "categoryName": "Arte",
+        "level": 4,
+        "value": 400,
+        "text": "Chi è l'autore della 'Notte stellata'?",
+        "type": "stop"
+    },
+    {
+        "category": 3,
+        "categoryName": "Arte",
+        "level": 5,
+        "value": 500,
+        "text": "Quale movimento artistico è associato a Salvador Dalí?",
+        "type": "team_play"
+    },
+    
+    {
+        "category": 4,
+        "categoryName": "Sport",
+        "level": 1,
+        "value": 100,
+        "text": "Qual è lo sport nazionale del Giappone?",
+        "type": "normal"
+    },
+    {
+        "category": 4,
+        "categoryName": "Sport",
+        "level": 2,
+        "value": 200,
+        "text": "In quale anno si sono svolti i primi Giochi Olimpici moderni?",
+        "type": "double_risk"
+    },
+    {
+        "category": 4,
+        "categoryName": "Sport",
+        "level": 3,
+        "value": 300,
+        "text": "Chi ha vinto il Campionato del Mondo di Formula 1 nel 2023?",
+        "type": "stop"
+    },
+    {
+        "category": 4,
+        "categoryName": "Sport",
+        "level": 4,
+        "value": 400,
+        "text": "Quale squadra ha vinto la Coppa del Mondo FIFA 2022?",
+        "type": "solo"
+    },
+    {
+        "category": 4,
+        "categoryName": "Sport",
+        "level": 5,
+        "value": 500,
+        "text": "Chi detiene il record del mondo nei 100 metri piani maschili?",
+        "type": "multiple_choice"
+    },
+    
+    {
+        "category": 5,
+        "categoryName": "Animali",
+        "level": 1,
+        "value": 100,
+        "text": "Qual è l'animale più veloce sulla terra?",
+        "type": "normal"
+    },
+    {
+        "category": 5,
+        "categoryName": "Animali",
+        "level": 2,
+        "value": 200,
+        "text": "Quanti cuori ha un polpo?",
+        "type": "double_risk"
+    },
+    {
+        "category": 5,
+        "categoryName": "Animali",
+        "level": 3,
+        "value": 300,
+        "text": "Qual è l'unico mammifero in grado di volare?",
+        "type": "stop"
+    },
+    {
+        "category": 5,
+        "categoryName": "Animali",
+        "level": 4,
+        "value": 400,
+        "text": "Quante zampe ha un ragno?",
+        "type": "solo"
+    },
+    {
+        "category": 5,
+        "categoryName": "Animali",
+        "level": 5,
+        "value": 500,
+        "text": "Qual è l'animale più grande mai esistito?",
+        "type": "team_play"
+    },
+    
+    {
+        "category": 6,
+        "categoryName": "Storia",
+        "level": 1,
+        "value": 100,
+        "text": "Chi ha inventato la lampadina?",
+        "type": "normal"
+    },
+    {
+        "category": 6,
+        "categoryName": "Storia",
+        "level": 2,
+        "value": 200,
+        "text": "In quale anno è stato lanciato il primo satellite artificiale?",
+        "type": "double_risk"
+    },
+    {
+        "category": 6,
+        "categoryName": "Storia",
+        "level": 3,
+        "value": 300,
+        "text": "Chi ha formulato la teoria della relatività?",
+        "type": "stop"
+    },
+    {
+        "category": 6,
+        "categoryName": "Storia",
+        "level": 4,
+        "value": 400,
+        "text": "Quale scienziato ha scoperto la penicillina?",
+        "type": "solo"
+    },
+    {
+        "category": 6,
+        "categoryName": "Storia",
+        "level": 5,
+        "value": 500,
+        "text": "Chi è considerato il padre della computer science?",
+        "type": "multiple_choice"
+    }
+]

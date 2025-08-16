@@ -1,31 +1,27 @@
 # Lunedì 18 agosto
 
 ## Orari
- 
- 
-
-07:30 - Sveglia
-07:30-08:30 - Risveglio muscolare e preghiera "L'ora della luce"
-08:30 - Colazione
+07:00 - Caffè animatori
+07:15 - Lodi animatori
+07:30 - Sveglia dei ragazzi
+07:45- Risveglio muscolare (Luca,Pietro,Christian) e preghiera "L'ora della luce"
+08:15/08:30 - Colazione e avvisi della giornata
 09:00 - Avvisi della giornata e igiene personale
 09:15-09:30 - Inizio pulizie (come da cartellone)
 10:00 - Ritrovo in salone, presentazione tema della giornata e lettura del Vangelo
-10:45-12:00 - Lavoro di gruppo
+10:30-12:00 - Lavoro di gruppo (Scheda) (Martina)
+12:00 - Condivisione
 12:30 - Pranzo
 12:30-14:30 - Gioco libero
-15:00 - Ritrovo per attività o gioco pomeridiano
+15:00 - Scalpo con bandiera (Christian e Pietro)
 17:00 - Merenda
 18:00 - Docce
 19:30 - Cena
-21:00-21:30 - Serata in allegria
+21:00-21:30 - Serata in allegria Rischiatutto (Daniele)
 23:00 - Ora delle stelle
 23:30 - Buonanotte
 
-
-
 ### Guida per la riflessione
- 
- 
 
 🌟 Tema del giorno:
 Scegliere il bene: “La via stretta”

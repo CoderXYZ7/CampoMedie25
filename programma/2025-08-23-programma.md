@@ -8,8 +8,8 @@ Al rientro - Proseguimento attività
 12:30 - Pranzo
 13:30-15:30/16:00 - Riposo
 Dopo il riposo - Preparazione dello spettacolo per Tu si que Fusine Vales
-21:30 - Tu si Que Vales un po
-23:00 - Falò
+21:30 - Tu si Que Vales un po (Vince)
+23:00 - Falò (Christian e Vincenzo)
 01:00 - Buonanotte
 
 ### Guida alla riflessione

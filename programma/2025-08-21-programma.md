@@ -2,20 +2,22 @@
 
 ## Orari
 
-07:30 - Sveglia
-07:30-08:30 - Risveglio muscolare e preghiera "L'ora della luce"
-08:30 - Colazione
-09:00 - Avvisi della giornata e igiene personale
-09:15-09:30 - Inizio pulizie (come da cartellone)
-10:00 - Partenza per camminata
-10:00-16:00 - Camminata (pranzo al sacco)
-16:00 - Rientro
-17:00 - Merenda
-18:00 - Docce
-19:30 - Cena
-21:00-21:30 - Serata in allegria
+07:00- Caffè animatori
+07:15- Lodi animatori
+07:30- Sveglia dei ragazzi
+07:45- Risveglio muscolare (Luca,Pietro,Christian) e preghiera "L'ora della luce"
+08:15/08:30 - Colazione e avvisi della giornata
+08:45 - Igiene personale
+09:00-09:15 - Partenza per camminata. Spiegazione del significato della torcia e del gesto di passarsela durante la camminata (??)
+10:00-16:00 - Camminata (pranzo al sacco).Vangelo,canzone, riflessione guidata dal Don e da Francisco
+16:00 - Rientro con merenda
+17:30/18:00 - Docce
+19:30 - Cena + condivisione della finestra del giorno
+20:30 - Consegna cellulari (Chiara G. e Chiara P.)
+21:00 - Serata in allegria, film (Daniele [Il robot selvaggio], [Pinocchio])
 23:00 - Ora delle stelle
 23:30 - Buonanotte
+Briefing animatori 
 
 ### Guida alla riflessione
 

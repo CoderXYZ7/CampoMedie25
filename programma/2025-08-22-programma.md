@@ -10,11 +10,11 @@
 10:00 - Ritrovo in salone, preparazione della lettera "A me stesso" in vista della confessione
 10:45-12:00 - Proseguimento attività / momento di riflessione
 12:30 - Pranzo
-14:30 - Gioco libero o attività pomeridiana
+14:30 - Attività pomeridiana Alce Rossa (Lucia M. e Lucia D.)
 17:00 - Merenda
 18:00 - Docce
 19:00 - Cena
-20:30-21:30 - Serata
+20:30-21:30 - Serata Horror (Michela)
 22:30 - Nanna Presto
 
 ### Guida alla riflessione
