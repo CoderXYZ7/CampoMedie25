@@ -1,15 +1,16 @@
 :root {
-    --unanswered: #cccccc;
-    --correct: #4caf50;
-    --incorrect: #f44336;
-    --text-dark: #333333;
-    --modal-bg: rgba(0, 0, 0, 0.7);
+    --unanswered: #332a1a;        /* dark muted gold */
+    --correct: #b8860b;           /* dark goldenrod */
+    --incorrect: #8b0000;         /* dark red */
+    --text-dark: #ffeecc;          /* light gold/cream */
+    --modal-bg: rgba(0, 0, 0, 0.85);
+    --shine: rgba(255, 255, 204, 0.5); /* shine color */
 }
 
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f5f5f5;
+    background-color: #000000;
     color: var(--text-dark);
     margin: 0;
     padding: 20px;
@@ -22,7 +23,8 @@ body {
 }
 
 .cell {
-    aspect-ratio: 1/1;
+    position: relative;
+    aspect-ratio: 2/1;
     background-color: var(--unanswered);
     border-radius: 5px;
     display: flex;
@@ -30,18 +32,55 @@ body {
     justify-content: center;
     cursor: pointer;
     font-weight: bold;
-    transition: background-color 0.3s;
+    overflow: hidden;
+    transition: background-color 0.3s, transform 0.2s;
 }
 
+/* Hover shine effect */
+.cell:hover::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: var(--shine);
+    transform: rotate(25deg) translateX(-100%);
+    animation: hoverShine 1s linear forwards;
+}
+
+@keyframes hoverShine {
+    0% { transform: rotate(25deg) translateX(-100%); }
+    100% { transform: rotate(25deg) translateX(200%); }
+}
+
+/* Correct & incorrect states */
 .cell.correct {
     background-color: var(--correct);
+    color: #000;
 }
 
 .cell.incorrect {
     background-color: var(--incorrect);
+    color: #fff;
 }
 
-/* Removed special styling */
+/* Continuous shine on correct answers */
+.cell.correct::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: var(--shine);
+    animation: shine 2s linear infinite;
+}
+
+@keyframes shine {
+    0% { transform: rotate(25deg) translateX(-100%); }
+    100% { transform: rotate(25deg) translateX(200%); }
+}
 
 /* Header Styles */
 .category-row, .level-row {
@@ -52,7 +91,7 @@ body {
 }
 
 .category-header, .level-header {
-    background-color: #e0e0e0;
+    background-color: #443311; /* dark golden header */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,6 +99,7 @@ body {
     font-weight: bold;
     text-align: center;
     padding: 5px;
+    color: var(--text-dark);
 }
 
 .empty-cell {
@@ -71,7 +111,7 @@ body {
     font-weight: bold;
     font-size: 1.2rem;
     margin-bottom: 15px;
-    color: #2196F3;
+    color: var(--correct);
 }
 
 /* Question Modal */
@@ -89,12 +129,13 @@ body {
 }
 
 .modal-content {
-    background-color: white;
+    background-color: #1a1a1a;
     padding: 30px;
     border-radius: 10px;
     max-width: 80%;
     min-width: 300px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    box-shadow: 0 5px 15px rgba(255, 215, 0, 0.3);
+    color: var(--text-dark);
 }
 
 .modal-buttons {
@@ -110,16 +151,21 @@ body {
     cursor: pointer;
     border: none;
     border-radius: 5px;
+    transition: transform 0.2s;
+}
+
+.modal-buttons button:hover {
+    transform: scale(1.05);
 }
 
 #correctBtn {
     background-color: var(--correct);
-    color: white;
+    color: #000;
 }
 
 #incorrectBtn {
     background-color: var(--incorrect);
-    color: white;
+    color: #fff;
 }
 
 /* Responsive adjustments */
