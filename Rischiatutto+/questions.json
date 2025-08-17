@@ -2,40 +2,40 @@
   {
     "category": 1,
     "categoryName": "Storia",
-    "level": 1,
-    "value": 100,
+    "level": 2,
+    "value": 200,
     "text": "In che anno cadde l'Impero Romano d'Occidente?",
     "type": "Normale"
   },
   {
     "category": 1,
     "categoryName": "Storia",
-    "level": 2,
-    "value": 200,
+    "level": 3,
+    "value": 300,
     "text": "Chi fu il primo presidente degli Stati Uniti?",
     "type": "Solo"
   },
   {
     "category": 1,
     "categoryName": "Storia",
-    "level": 3,
-    "value": 300,
+    "level": 4,
+    "value": 400,
     "text": "Durante quale secolo avvenne la Rivoluzione Francese?",
     "type": "Gioco di squadre"
   },
   {
     "category": 1,
     "categoryName": "Storia",
-    "level": 4,
-    "value": 400,
+    "level": 5,
+    "value": 500,
     "text": "Quale trattato pose fine alla Prima Guerra Mondiale?",
     "type": "Doppio rischio"
   },
   {
     "category": 1,
     "categoryName": "Storia",
-    "level": 5,
-    "value": 500,
+    "level": 1,
+    "value": 100,
     "text": "Chi fu il faraone della stele di Rosetta?",
     "type": "Risposte multiple"
   },
@@ -43,40 +43,40 @@
   {
     "category": 2,
     "categoryName": "Geografia",
-    "level": 1,
-    "value": 100,
+    "level": 3,
+    "value": 300,
     "text": "Qual è la capitale della Spagna?",
     "type": "Normale"
   },
   {
     "category": 2,
     "categoryName": "Geografia",
-    "level": 2,
-    "value": 200,
+    "level": 4,
+    "value": 400,
     "text": "Qual è il fiume più lungo del mondo?",
     "type": "Stop"
   },
   {
     "category": 2,
     "categoryName": "Geografia",
-    "level": 3,
-    "value": 300,
+    "level": 5,
+    "value": 500,
     "text": "In quale continente si trova il deserto del Kalahari?",
     "type": "Gioco di squadre"
   },
   {
     "category": 2,
     "categoryName": "Geografia",
-    "level": 4,
-    "value": 400,
+    "level": 1,
+    "value": 100,
     "text": "Qual è la nazione con più fusi orari interni?",
     "type": "Doppio rischio"
   },
   {
     "category": 2,
     "categoryName": "Geografia",
-    "level": 5,
-    "value": 500,
+    "level": 2,
+    "value": 200,
     "text": "Qual è la capitale della Mongolia?",
     "type": "Risposte multiple"
   },
@@ -84,40 +84,40 @@
   {
     "category": 3,
     "categoryName": "Scienza",
-    "level": 1,
-    "value": 100,
+    "level": 4,
+    "value": 400,
     "text": "Qual è la formula chimica dell’acqua?",
     "type": "Normale"
   },
   {
     "category": 3,
     "categoryName": "Scienza",
-    "level": 2,
-    "value": 200,
+    "level": 5,
+    "value": 500,
     "text": "Chi elaborò la teoria della relatività?",
     "type": "Solo"
   },
   {
     "category": 3,
     "categoryName": "Scienza",
-    "level": 3,
-    "value": 300,
+    "level": 1,
+    "value": 100,
     "text": "Quale pianeta è conosciuto come 'pianeta rosso'?",
     "type": "Gioco di squadre"
   },
   {
     "category": 3,
     "categoryName": "Scienza",
-    "level": 4,
-    "value": 400,
+    "level": 2,
+    "value": 200,
     "text": "Qual è la particella con carica positiva nel nucleo?",
     "type": "Doppio rischio"
   },
   {
     "category": 3,
     "categoryName": "Scienza",
-    "level": 5,
-    "value": 500,
+    "level": 3,
+    "value": 300,
     "text": "Chi formulò la legge della gravitazione universale?",
     "type": "Risposte multiple"
   },
@@ -166,16 +166,16 @@
   {
     "category": 5,
     "categoryName": "Arte",
-    "level": 1,
-    "value": 100,
+    "level": 5,
+    "value": 500,
     "text": "Chi dipinse la Gioconda?",
     "type": "Normale"
   },
   {
     "category": 5,
     "categoryName": "Arte",
-    "level": 2,
-    "value": 200,
+    "level": 4,
+    "value": 400,
     "text": "In quale città si trova la Cappella Sistina?",
     "type": "Solo"
   },
@@ -190,16 +190,16 @@
   {
     "category": 5,
     "categoryName": "Arte",
-    "level": 4,
-    "value": 400,
+    "level": 2,
+    "value": 200,
     "text": "Chi dipinse 'La notte stellata'?",
     "type": "Doppio rischio"
   },
   {
     "category": 5,
     "categoryName": "Arte",
-    "level": 5,
-    "value": 500,
+    "level": 1,
+    "value": 100,
     "text": "Chi fu l’architetto della Cupola di Santa Maria del Fiore?",
     "type": "Risposte multiple"
   },
